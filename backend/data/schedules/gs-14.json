@@ -1,0 +1,241 @@
+{
+  "schedule_number": "GS-14",
+  "schedule_title": "County and Municipal Attorneys",
+  "records": [
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000497",
+      "series_title": "Bankruptcy Files",
+      "series_description": "This series documents individuals and corporations owing money to the locality. This series may include, but is not limited to: correspondence and notices.",
+      "series_retention_period": "2 Years after final disposition of case by the court",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Bankruptcy Files (Series 000497): Legal record documenting individuals and corporations owing money to the locality who have filed for bankruptcy. Retention: 2 years after final court disposition. Records include: correspondence, bankruptcy notices, claims filed. Covers municipal attorney handling of bankruptcy proceedings.",
+      "scope_notes": "Applies to records of bankruptcy cases where money is owed to the locality. Retention is 2 years after final court disposition. Distinct from Real Estate Delinquent Tax Suit Files (000504) which cover tax recovery, not general debt bankruptcy.",
+      "key_criteria": [
+        "bankruptcy",
+        "bankruptcy filing",
+        "bankruptcy notice",
+        "debtor",
+        "money owed to locality",
+        "bankruptcy case",
+        "creditor claim",
+        "bankruptcy correspondence"
+      ],
+      "exclusions": ["000504", "000503"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000498",
+      "series_title": "Bond Issue Files",
+      "series_description": "This series documents the issuance of municipal bonds. This series may include, but is not limited to: ordinances, court orders, and opinions.",
+      "series_retention_period": "5 Years after date of bond maturity or receipt of bound volume",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Bond Issue Files (Series 000498): Legal record documenting the issuance of municipal bonds by the locality. Retention: 5 years after bond maturity or receipt of bound documentation. Records include: ordinances, court orders, bond opinions, bond documentation. Covers municipal bond financing and related legal authority.",
+      "scope_notes": "Applies to legal records related to the issuance of municipal bonds. Retention runs from bond maturity or bound documentation receipt. Covers bond ordinances and related court orders.",
+      "key_criteria": [
+        "municipal bond",
+        "bond issuance",
+        "bond issue",
+        "bond ordinance",
+        "bond maturity",
+        "bond documentation",
+        "bond financing"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000499",
+      "series_title": "Encroachment Files",
+      "series_description": "This series documents encroachments on locality property. This series may include, but is not limited to: reports and agreements.",
+      "series_retention_period": "3 Years after expiration of agreement",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Encroachment Files (Series 000499): Legal record documenting encroachments on locality-owned property. Retention: 3 years after expiration of encroachment agreement. Records include: encroachment reports, encroachment agreements, permits. Covers unauthorized or permitted use of locality property by adjacent owners.",
+      "scope_notes": "Applies to legal records regarding encroachments on locality property. Distinct from Street Closure Files (000506) which cover street closures, not adjacent property encroachments.",
+      "key_criteria": [
+        "encroachment",
+        "encroachment agreement",
+        "encroachment report",
+        "property encroachment",
+        "locality property use",
+        "encroachment permit"
+      ],
+      "exclusions": ["000506", "000507"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000500",
+      "series_title": "Federal Community Development Files",
+      "series_description": "This series documents federally-funded locality housing and urban development projects. This series may include, but is not limited to: contracts and agreements.",
+      "series_retention_period": "3 Years after HUD audit or grant terms, whichever is longer",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Federal Community Development Files (Series 000500): Legal record documenting federally-funded housing and urban development projects. Retention: 3 years after HUD audit or grant terms (whichever is longer). Records include: contracts, agreements, HUD compliance documentation. Covers locality participation in federal community development programs.",
+      "scope_notes": "Applies to legal records for federally-funded community development, housing, and urban development projects. Retention based on HUD audit completion. Covers contracts and agreements with federal agencies.",
+      "key_criteria": [
+        "federal community development",
+        "HUD",
+        "housing and urban development",
+        "community development project",
+        "federal housing grant",
+        "urban development contract",
+        "HUD audit"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000501",
+      "series_title": "Legal Review: Conflict of Interest",
+      "series_description": "This series documents potential and actual conflicts of interest concerning members of Council or Board of Supervisors. This series may include, but is not limited to: correspondence, financial reports, and statements.",
+      "series_retention_period": "5 Years after completion of action",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Legal Review: Conflict of Interest (Series 000501): Legal record documenting conflict of interest reviews for elected officials. Retention: 5 years after completion of action. Records include: correspondence, financial reports, disclosure statements. Covers municipal attorney review of conflicts of interest involving Council or Board of Supervisors members.",
+      "scope_notes": "Applies to legal reviews of conflict of interest disclosures by Council or Board of Supervisors members. Distinct from Legal Review: Departmental Matters (000502) which covers departmental legal issues, not elected official ethics.",
+      "key_criteria": [
+        "conflict of interest",
+        "elected official conflict",
+        "board of supervisors conflict",
+        "council member disclosure",
+        "financial disclosure",
+        "ethics review",
+        "conflict of interest statement"
+      ],
+      "exclusions": ["000502"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000502",
+      "series_title": "Legal Review: Departmental Matters",
+      "series_description": "This series documents issues and projects with legal implications for departments of the locality. This series may include, but is not limited to: correspondence and reports.",
+      "series_retention_period": "10 Years after completion of action",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Legal Review: Departmental Matters (Series 000502): Legal record documenting departmental legal issues and projects. Retention: 10 years after completion of action. Records include: correspondence, legal reports, legal opinions. Covers municipal attorney legal advice and review for locality departments.",
+      "scope_notes": "Applies to legal reviews and opinions provided by the municipal attorney to locality departments. Distinct from Conflict of Interest reviews (000501) which relate to elected officials, and Litigation Case Files which involve formal court proceedings.",
+      "key_criteria": [
+        "departmental legal matter",
+        "legal opinion",
+        "legal advice",
+        "municipal attorney review",
+        "legal compliance",
+        "departmental legal issue"
+      ],
+      "exclusions": ["000501"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000503",
+      "series_title": "Misdemeanor and Appeal Files",
+      "series_description": "This series documents misdemeanor offenses committed against the locality. This series may include, but is not limited to: correspondence and police reports.",
+      "series_retention_period": "1 Year after final disposition of case by the court",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Misdemeanor and Appeal Files (Series 000503): Legal record documenting misdemeanor offenses against the locality. Retention: 1 year after final court disposition. Records include: correspondence, police reports, misdemeanor case files, appeal records. Covers municipal attorney handling of misdemeanor prosecutions.",
+      "scope_notes": "Applies to misdemeanor offenses committed against the locality handled by the municipal attorney. Retention is 1 year post final court disposition. Distinct from Bankruptcy Files (000497) and Real Estate Tax Suit Files (000504).",
+      "key_criteria": [
+        "misdemeanor",
+        "misdemeanor case",
+        "appeal file",
+        "misdemeanor prosecution",
+        "police report",
+        "court disposition",
+        "criminal offense against locality"
+      ],
+      "exclusions": ["000497", "000504"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000504",
+      "series_title": "Real Estate and Personal Property Delinquent Tax Suit Files",
+      "series_description": "This series documents the recovery of outstanding real estate and personal property taxes owed to the locality. This series may include, but is not limited to: real estate appraisals, title documentation, pleadings, contracts, and deeds.",
+      "series_retention_period": "5 Years after final disposition of case by the court",
+      "series_disposition_method": "Destroy",
+      "text_to_embed": "Real Estate and Personal Property Delinquent Tax Suit Files (Series 000504): Legal record documenting tax recovery lawsuits for delinquent real estate and personal property taxes. Retention: 5 years after final court disposition. Records include: appraisals, title documentation, pleadings, contracts, deeds. Covers municipal attorney litigation to recover unpaid property taxes.",
+      "scope_notes": "Applies to legal proceedings to recover outstanding real estate and personal property taxes owed to the locality. Covers lawsuits and judgments in tax recovery cases. Distinct from Real Estate Title Files (000505) which address property title issues.",
+      "key_criteria": [
+        "delinquent tax",
+        "tax suit",
+        "property tax recovery",
+        "real estate tax delinquent",
+        "personal property tax",
+        "tax lien",
+        "tax collection lawsuit",
+        "overdue taxes",
+        "unpaid property tax"
+      ],
+      "exclusions": ["000505", "000497"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000505",
+      "series_title": "Real Estate Title Files",
+      "series_description": "This series documents efforts by the locality to establish title to properties. This series may include, but is not limited to: real estate appraisals, title documentation, contracts, and deeds.",
+      "series_retention_period": "Permanent, In Agency",
+      "series_disposition_method": "Permanent Retention",
+      "text_to_embed": "Real Estate Title Files (Series 000505): Permanent legal record documenting the locality's efforts to establish title to properties. Retention: Permanent, in agency. Records include: title documentation, real estate appraisals, property deeds, contracts. Covers title establishment and property ownership by the locality.",
+      "scope_notes": "Applies to records establishing or documenting locality ownership and title to real property. Retention is permanent. Distinct from Real Estate Delinquent Tax Suit Files (000504) which cover tax collection, not title ownership.",
+      "key_criteria": [
+        "real estate title",
+        "property title",
+        "property deed",
+        "title documentation",
+        "real property ownership",
+        "locality property title",
+        "title search",
+        "deed"
+      ],
+      "exclusions": ["000504", "000506"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000506",
+      "series_title": "Street Closure Files",
+      "series_description": "This series documents efforts to close locality streets. This series may include, but is not limited to: ordinances and right-of-way variations.",
+      "series_retention_period": "Permanent, In Agency",
+      "series_disposition_method": "Permanent Retention",
+      "text_to_embed": "Street Closure Files (Series 000506): Permanent legal record documenting street closure proceedings. Retention: Permanent, in agency. Records include: street closure ordinances, right-of-way variations, petitions, and approvals. Covers municipal attorney work on permanent or temporary street closures.",
+      "scope_notes": "Applies to legal records for closing public streets in the locality. Retention is permanent. Distinct from Encroachment Files (000499) which cover unauthorized use of property, and Zoning Files (000507) which cover land-use classification.",
+      "key_criteria": [
+        "street closure",
+        "road closure",
+        "right-of-way",
+        "right-of-way variation",
+        "street closure ordinance",
+        "public road closure",
+        "street vacation"
+      ],
+      "exclusions": ["000499", "000507"]
+    },
+    {
+      "schedule_number": "GS-14",
+      "schedule_title": "County and Municipal Attorneys",
+      "series_number": "000507",
+      "series_title": "Zoning and Rezoning Files",
+      "series_description": "This series documents zoning and rezoning processes. This series may include, but is not limited to: ordinances and exhibits.",
+      "series_retention_period": "Retain as long as administratively necessary",
+      "series_disposition_method": "Destroy when no longer needed",
+      "text_to_embed": "Zoning and Rezoning Files (Series 000507): Legal record documenting zoning and rezoning processes. Retention: as long as administratively necessary. Records include: zoning ordinances, rezoning petitions, exhibits, zoning maps, public hearing records. Covers municipal attorney involvement in land-use zoning and rezoning proceedings.",
+      "scope_notes": "Applies to legal records for zoning and rezoning processes including ordinances and exhibits. Distinct from Street Closure Files (000506) which cover road closures, and Encroachment Files (000499) which cover property encroachments.",
+      "key_criteria": [
+        "zoning",
+        "rezoning",
+        "zoning ordinance",
+        "rezoning petition",
+        "land use",
+        "zoning classification",
+        "zoning map",
+        "zoning hearing",
+        "land use change"
+      ],
+      "exclusions": ["000506", "000499"]
+    }
+  ]
+}

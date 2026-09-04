@@ -1,0 +1,2233 @@
+{
+  "source": {
+    "schedule_number": "GS-17",
+    "schedule_title": "Law Enforcement, Fire and Emergency Services",
+    "government_body": "County and Municipal Governments",
+    "effective_schedule_date": "06/11/2026",
+    "source_file": "GS-17.pdf",
+    "record_count": 88
+  },
+  "records": [
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100812",
+      "series_title": "Abandoned/Impounded Vehicles",
+      "series_description": "This series documents the identification, retrieval, processing, return, or disposal of abandoned or impounded vehicles. This series may consist of, but is not limited to: tow sheet and disposition form.",
+      "series_retention_period": "3 Years after equipment, facility, or property sold or no longer in use",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Abandoned/Impounded Vehicles (Series 100812): This series documents the identification, retrieval, processing, storage, return, or disposal/auction of abandoned or impounded vehicles. Retention: 3 years after vehicle sold or no longer in use. Records include: tow sheet, impound form, vehicle identification (VIN, license plate, make, model), disposition form (returned to owner, auctioned, destroyed), storage fees, owner notification, legal hold documentation. Distinct from Towed Vehicle Files (100805) which covers law enforcement-ordered towing.",
+      "scope_notes": "Applies to vehicles that have been abandoned or impounded and are in law enforcement custody for storage, processing, and eventual disposal or return to owner. Distinct from Towed Vehicle Files (100805) which covers the act of towing; this series covers the subsequent storage and disposition of impounded vehicles.",
+      "key_criteria": [
+        "abandoned vehicle",
+        "impounded vehicle",
+        "impound lot",
+        "vehicle storage",
+        "impound fees",
+        "vehicle disposal",
+        "vehicle auction",
+        "VIN",
+        "unclaimed vehicle",
+        "vehicle returned to owner"
+      ],
+      "exclusions": [
+        "100805",
+        "000347"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200141",
+      "series_title": "Accreditation Records: Supporting documentation - Commission on Accreditation for Law Enforcement Agencies (CALEA)",
+      "series_description": "This series documents compliance with the Commission on Accreditation for Law Enforcement Agencies (CALEA) accreditation program standards. This series may include, but is not limited to: accreditation standard-file content and annual compliance reports.",
+      "series_retention_period": "6 Years after creation",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Accreditation Records: Supporting documentation - CALEA (Series 200141): This series documents compliance with the Commission on Accreditation for Law Enforcement Agencies (CALEA) national accreditation program. Retention: 6 years after creation. Records include: CALEA accreditation standards compliance documentation, annual compliance reports, self-assessment files, accreditation award documentation, on-site assessment records. National law enforcement accreditation — distinct from the state-level VLEPSC accreditation (100814).",
+      "scope_notes": "Applies specifically to national CALEA accreditation compliance records. Retention is 6 years. Distinct from VLEPSC accreditation (100814) which is the Virginia state-level program with 8-year retention.",
+      "key_criteria": [
+        "CALEA",
+        "Commission on Accreditation for Law Enforcement Agencies",
+        "national accreditation",
+        "accreditation standard",
+        "CALEA compliance",
+        "on-site assessment"
+      ],
+      "exclusions": [
+        "100814"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100814",
+      "series_title": "Accreditation Records: Supporting documentation - Virginia Law Enforcement Professional Standards Commission (VLEPSC)",
+      "series_description": "This series documents compliance with the Virginia Law Enforcement Professional Standards Commission (VLEPSC) accreditation program standards. This series may include, but is not limited to: accreditation standard- file content and annual compliance reports.",
+      "series_retention_period": "8 Years after creation",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Accreditation Records: Supporting documentation - VLEPSC (Series 100814): This series documents compliance with the Virginia Law Enforcement Professional Standards Commission (VLEPSC) state accreditation program. Retention: 8 years after creation (longer than CALEA). Records include: VLEPSC accreditation standards compliance files, annual compliance reports, self-assessment documentation, Virginia state accreditation records. State-level Virginia accreditation — distinct from the national CALEA accreditation (200141).",
+      "scope_notes": "Applies specifically to Virginia state-level VLEPSC accreditation compliance records. Retention is 8 years, longer than CALEA (6 years). Distinct from CALEA accreditation (200141) which is the national program.",
+      "key_criteria": [
+        "VLEPSC",
+        "Virginia Law Enforcement Professional Standards Commission",
+        "state accreditation",
+        "Virginia accreditation",
+        "VLEPSC compliance"
+      ],
+      "exclusions": [
+        "200141"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100706",
+      "series_title": "Alarm: Security - Activated",
+      "series_description": "This series documents the activation of a home or business security alarm system linked to the law enforcement agency's response system, the notification to the agency, the investigation into the cause, and the findings (including billable false alarms). This series may include, but is not limited to: incident reports, dispatch notes, and false-alarm logs.",
+      "series_retention_period": "1 Year after closed",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Alarm: Security - Activated (Series 100706): This series documents ACTIVATIONS of home or business security alarm systems that triggered law enforcement response. Retention: 1 year after closed. Records include: alarm activation report, dispatch notes, incident report, officer response log, cause of activation (break-in, false alarm), false alarm citation, billable false alarm invoice, alarm company information. Distinct from Alarm Security Permit (100707) which covers registration — this covers each activation event.",
+      "scope_notes": "Applies to individual alarm activation events. Covers false alarm responses, cause investigation, and billable false alarm citations. NOT for alarm permit/registration (100707). NEVER use for criminal burglary or theft investigations — those belong to Investigative Case Files.",
+      "key_criteria": [
+        "alarm activation",
+        "false alarm",
+        "security alarm",
+        "alarm response",
+        "alarm triggered",
+        "alarm system activated",
+        "billable false alarm",
+        "false alarm citation"
+      ],
+      "exclusions": [
+        "100707",
+        "200146",
+        "200147"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100707",
+      "series_title": "Alarm: Security - Permit/Registration",
+      "series_description": "This series documents the process required to link a home or business security alarm systems to a law enforcement agency's response system, as well as the information needed to respond to a system activation and invoice for billable false alarms. This series may consist of, but is not limited to: the application and supporting documentation, owner-contact information, and alarm- system data.",
+      "series_retention_period": "1 Year after superseded, obsolete, or rescinded",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Alarm: Security - Permit/Registration (Series 100707): This series documents the REGISTRATION and PERMITTING of home and business security alarm systems linked to law enforcement response. Retention: 1 year after superseded or rescinded. Records include: alarm system registration application, owner contact information, alarm company data, permit number, emergency contacts, system type, billing information for false alarms. This is the registration/permit record — distinct from Alarm Activated (100706) which covers individual activation events.",
+      "scope_notes": "Applies to the alarm system registration and permit — the one-time or periodic registration record, not individual activation events. Distinct from Alarm: Security - Activated (100706) which documents each alarm event.",
+      "key_criteria": [
+        "alarm permit",
+        "alarm registration",
+        "security alarm registration",
+        "alarm system permit",
+        "alarm application",
+        "alarm system data"
+      ],
+      "exclusions": [
+        "100706"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100708",
+      "series_title": "Alcoholic Beverage Control (ABC) Permit Files",
+      "series_description": "This series documents local review and/or approval of ABC permits. This series may include, but is not limited to: Application, background checks, and supporting documentation.",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Alcoholic Beverage Control (ABC) Permit Files (Series 100708): This series documents law enforcement's local review and approval process for Alcoholic Beverage Control (ABC) permits for businesses selling or serving alcohol. Retention: 1 year after last action. Records include: ABC permit application, applicant background check, business location verification, supporting documentation, approval or denial letter. Distinct from general background checks — specifically for alcohol-serving business licensing.",
+      "scope_notes": "Applies specifically to law enforcement review of Alcoholic Beverage Control permit applications for businesses serving or selling alcohol. Distinct from general background checks (100772).",
+      "key_criteria": [
+        "ABC permit",
+        "alcoholic beverage control",
+        "alcohol permit",
+        "ABC application",
+        "liquor permit",
+        "beer permit",
+        "alcohol license"
+      ],
+      "exclusions": [
+        "100772"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100711",
+      "series_title": "Animal Control Files",
+      "series_description": "This series documents law enforcement's participation in local animal control. This series may include, but is not limited to: Complaints, investigations, custody and disposition records, and animal bite records. COV 3.2-6557(B)",
+      "series_retention_period": "5 Years after last action",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Animal Control Files (Series 100711): This series documents law enforcement participation in local animal control activities. Retention: 5 years after last action. Records include: animal bite reports, animal complaints, dangerous/vicious animal investigations, animal custody records, animal disposition (shelter, euthanasia, return to owner), bite victim information, rabies exposure documentation. COV 3.2-6557(B). Distinct from Dangerous Dog Records (000342) which specifically covers dogs determined dangerous or vicious.",
+      "scope_notes": "Applies to general animal control activities — complaints, animal bites, custody, disposition. Distinct from Dangerous Dog Records (000342) which covers dogs officially determined to be dangerous or vicious under COV 3.2-6540.",
+      "key_criteria": [
+        "animal control",
+        "animal bite",
+        "animal complaint",
+        "animal custody",
+        "dog bite",
+        "rabies exposure",
+        "animal disposition",
+        "animal shelter"
+      ],
+      "exclusions": [
+        "000342"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200879",
+      "series_title": "Applicant Safety Assessments",
+      "series_description": "This series documents an office's safety concerns about an applicant based on administered employment assessments and/or evaluations. This series may include, but is not limited to, reports, lists, and correspondence.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Applicant Safety Assessments (Series 200879): This series documents law enforcement agency safety concerns about JOB APPLICANTS based on employment psychological assessments and evaluations. Retention: until no longer administratively useful. Records include: safety assessment reports, psychological evaluation results, employment suitability findings, risk assessment notes, applicant screening correspondence. Confidential — relates to pre-employment screening of law enforcement officer candidates.",
+      "scope_notes": "Applies to pre-employment psychological and safety assessments for law enforcement job applicants — NOT for active officers or criminal subjects. Confidential.",
+      "key_criteria": [
+        "applicant safety assessment",
+        "employment assessment",
+        "pre-employment evaluation",
+        "psychological evaluation",
+        "applicant screening",
+        "safety concern",
+        "employment suitability"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100713",
+      "series_title": "Arrest Files: Adult",
+      "series_description": "This series documents the cumulative history of arrests of a particular individual. This series may consist of, but is not limited to, photographs.",
+      "series_retention_period": "100 Years after birth",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Arrest Files: Adult (Series 100713): This series documents the complete arrest and booking history of adult individuals who have been apprehended by law enforcement. Records include: arrest reports, booking sheets, mugshots (frontal and profile photographs), fingerprint cards, charges filed (felony and misdemeanor), arresting officer information, badge number, arrest date and circumstances, Miranda rights acknowledgment, bail and bond information, court disposition records, conviction status, sentencing details, and Central Criminal Records Exchange (CCRE) data. Retention: 100 years after birth. Key identifiers: name, date of birth, physical description, arrest date, charges, officer badge number, case status (convicted, acquitted, pending).",
+      "scope_notes": "Applies ONLY to adult subjects (18 years of age or older). Documents the cumulative arrest history of a single adult individual. Retention is 100 years after birth. MUST NOT be used for: juvenile subjects (100714), deceased arrestees (200150), pre-1974 historical records (200969), or chronological agency-wide arrest logs (100718).",
+      "key_criteria": [
+        "adult arrest",
+        "adult booking",
+        "adult subject",
+        "booking sheet",
+        "mugshot",
+        "fingerprint card",
+        "CCRE",
+        "central criminal records exchange",
+        "adult offender",
+        "adult inmate",
+        "age 18",
+        "18 years old",
+        "adult detention"
+      ],
+      "exclusions": [
+        "100714",
+        "200150",
+        "200969",
+        "100718"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200150",
+      "series_title": "Arrest Files: Adult - Death Notification",
+      "series_description": "This series documents the cumulative history of arrests of a particular individual about whose death the department has been notified. This series may consist of, but is not limited to: warrants, finger prints, summonses, photographs, court disposition, and Central Criminal Records Exchange data.",
+      "series_retention_period": "1 Year after notification",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Arrest Files: Adult - Death Notification (Series 200150): This series documents the arrest history of an adult individual whose DEATH has been officially reported to the law enforcement department. Triggering event: death notification received. Retention: 1 year after death notification (short — case closed by death). Records include: arrest history, deceased subject's warrants, fingerprints, summonses, mugshots/photographs, court disposition, Central Criminal Records Exchange (CCRE) data, death notification document. Distinguished from standard Arrest Files: Adult (100713) by the death notification trigger and very short 1-year retention.",
+      "scope_notes": "Applies ONLY when an adult arrestee or inmate has officially died and the department received a death notification. The defining event is the official death notification. Retention is only 1 year after notification. Distinct from standard Adult Arrest Files (100713).",
+      "key_criteria": [
+        "death notification",
+        "deceased arrestee",
+        "deceased inmate",
+        "date of death",
+        "subject is deceased",
+        "arrestee deceased",
+        "notice of death",
+        "decedent arrestee"
+      ],
+      "exclusions": [
+        "100713",
+        "100714"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200969",
+      "series_title": "Arrest Files: Adult - Pre-1974",
+      "series_description": "This series documents the cumulative history of arrests of a particular individual. This series may consist of, but is not limited to, fingerprints and photographs.",
+      "series_retention_period": "100 Years after birth",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Arrest Files: Adult - Pre-1974 (Series 200969): This series documents the historical arrest records of adult individuals created BEFORE 1974. These are legacy/historical arrest records predating modern records management systems. Retention: 100 years after birth. Records include: historical arrest files, pre-1974 fingerprint cards, historical photographs/mugshots, old-format booking records, pre-computerization arrest documentation. Distinguished by the historical pre-1974 date restriction and archival nature of these records.",
+      "scope_notes": "Applies ONLY to adult arrest records created BEFORE 1974 — legacy historical records predating modern systems. The date restriction (pre-1974) is the defining criterion. Distinct from standard Adult Arrest Files (100713) which covers post-1974 records.",
+      "key_criteria": [
+        "pre-1974",
+        "pre 1974",
+        "before 1974",
+        "prior to 1974",
+        "historical booking",
+        "historical arrest",
+        "old arrest record",
+        "historical fingerprint"
+      ],
+      "exclusions": [
+        "100713"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100714",
+      "series_title": "Arrest Files: Juvenile",
+      "series_description": "This series documents the cumulative history of arrests of a particular juvenile. This series may consist of, but is not limited to, photographs.",
+      "series_retention_period": "5 Years after 18th birthday",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Arrest Files: Juvenile (Series 100714): This series documents the arrest and booking history of JUVENILE offenders (minors, under 18 years of age). Retention: 5 years after 18th birthday (short, age-based retention protecting juvenile records). Records include: juvenile arrest report, juvenile booking sheet, juvenile mugshots/photographs, charges filed against minor, juvenile court disposition, juvenile diversion records, youth detention records. Strictly limited to minor subjects — distinguished from adult arrest files by subject age and age-based retention. Confidential destruction required.",
+      "scope_notes": "Applies ONLY to subjects who are UNDER 18 years of age (minors/juveniles). Documents juvenile arrest, delinquency charges, juvenile intake. Retention is 5 years after the subject 18th birthday. NEVER classify an adult subject here. Distinct from Juvenile Fingerprints/Photos with No Warrant Filed (100758) which covers cases where no petition was filed.",
+      "key_criteria": [
+        "juvenile arrest",
+        "juvenile offender",
+        "juvenile booking",
+        "juvenile intake",
+        "juvenile delinquency",
+        "juvenile court",
+        "minor arrest",
+        "minor subject",
+        "under 18",
+        "under the age of 18",
+        "juvenile detention",
+        "juvenile custody",
+        "18th birthday",
+        "parent or guardian",
+        "delinquency charge",
+        "juvenile petition"
+      ],
+      "exclusions": [
+        "100713",
+        "100758",
+        "100718"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100718",
+      "series_title": "Arrest Logs/Books",
+      "series_description": "This series documents the cumulative arrests by an agency in chronological order. This series may consist of, but is not limited to: log books.",
+      "series_retention_period": "5 Years after last action",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Arrest Logs/Books (Series 100718): This series documents a chronological agency-wide log of all arrests made by the law enforcement agency. This is an administrative log/registry, not an individual's arrest file. Retention: 5 years after last action. Records include: arrest log book, chronological arrest register, sequential booking log, arrest date, arrested person name, charge, arresting officer — recorded in order of occurrence. Distinguished from individual Arrest Files by its chronological log/register format covering all arrests agency-wide, not a single person's cumulative history.",
+      "scope_notes": "Applies ONLY to chronological, agency-wide registers listing ALL arrests in order of occurrence. This is an administrative log/registry — NOT individual arrest files. If the document covers ONE person arrest history, it is NOT an arrest log.",
+      "key_criteria": [
+        "arrest log",
+        "arrest book",
+        "arrest register",
+        "chronological arrest",
+        "booking log",
+        "daily arrest log",
+        "shift arrest log",
+        "agency-wide arrests",
+        "arrest registry",
+        "arrest ledger"
+      ],
+      "exclusions": [
+        "100713",
+        "100714"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200444",
+      "series_title": "Arrestee Personal Property Inventory",
+      "series_description": "This series documents a law enforcement agency's inventory of personal effects removed from an arrestee before transfer to a regional lockup or jail. This series may include, but is not limited to: logs, registers, and inventory forms.",
+      "series_retention_period": "3 Years after creation",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Arrestee Personal Property Inventory: This series documents a law enforcement agency's inventory of personal effects removed from an arrestee before transfer to a regional lockup or jail. This series may include, but is not limited to: logs, registers, and inventory forms.",
+      "scope_notes": "Applies to the inventory of personal belongings removed from an arrestee at time of booking — not the arrest record itself.",
+      "key_criteria": [
+        "personal property inventory",
+        "arrestee property",
+        "personal effects",
+        "property inventory",
+        "belongings inventory",
+        "property removed from arrestee"
+      ],
+      "exclusions": [
+        "100713",
+        "100714"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100721",
+      "series_title": "Automotive Operations: Radar Equipment Files",
+      "series_description": "This series documents the cumulative maintenance and repair history of radar speed-limit enforcement equipment, including but not limited to radar and LIDAR. This series may consist of, but is not limited to: service records.",
+      "series_retention_period": "0 Years after equipment, facility, or property sold or no longer in use",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Automotive Operations: Radar Equipment Files: This series documents the cumulative maintenance and repair history of radar speed-limit enforcement equipment, including but not limited to radar and LIDAR. This series may consist of, but is not limited to: service records.",
+      "scope_notes": "Applies to maintenance and repair history of radar/LIDAR speed enforcement equipment — not calibration records. Distinct from Calibration records (100720).",
+      "key_criteria": [
+        "radar equipment",
+        "LIDAR equipment",
+        "radar maintenance",
+        "speed enforcement equipment",
+        "radar repair",
+        "radar service record"
+      ],
+      "exclusions": [
+        "100720"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100720",
+      "series_title": "Automotive Operations: Speed-limit Enforcement Equipment Calibrations",
+      "series_description": "This series documents the routine, timely, and effective calibration of radar, LIDAR, tuning forks, speedometers, and all other speed-enforcement equipment. This series may consist of, but is not limited to: current and expired calibration-vendor's certificate.",
+      "series_retention_period": "1 Year after expiration",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Automotive Operations: Speed-limit Enforcement Equipment Calibrations: This series documents the routine, timely, and effective calibration of radar, LIDAR, tuning forks, speedometers, and all other speed-enforcement equipment. This series may consist of, but is not limited to: current and expired calibration-vendor's certificate.",
+      "scope_notes": "Applies to calibration certificates and calibration vendor records for speed enforcement equipment. Distinct from general maintenance/repair records (100721).",
+      "key_criteria": [
+        "calibration",
+        "calibration certificate",
+        "speed enforcement calibration",
+        "tuning fork",
+        "speedometer calibration",
+        "radar calibration",
+        "LIDAR calibration",
+        "calibration vendor"
+      ],
+      "exclusions": [
+        "100721"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100772",
+      "series_title": "Background Checks",
+      "series_description": "This series documents the request for, performance of, and submission of results from background checks/investigations on individuals as requested by courts, employers, and other persons in matters not involving an active investigative case. This series may include, but is not limited to: Special Conservator of the Peace application files; interview notes; birth, school, or military records; references; and the summarized results. COV 19.2-13 (A)",
+      "series_retention_period": "3 Years after submission",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Background Checks: This series documents the request for, performance of, and submission of results from background checks/investigations on individuals as requested by courts, employers, and other persons in matters not involving an active investigative case. This series may include, but is not limited to: Special Conservator of the Peace application files; interview notes; birth, school, or military records; references; and the summarized results. COV 19.2-13 (A)",
+      "scope_notes": "Applies to background checks requested by courts, employers, or others — NOT part of an active criminal investigation or a specific permit type. Distinct from ABC Permit (100708) and Concealed Handgun (100727) which are specific permit background checks.",
+      "key_criteria": [
+        "background check",
+        "background investigation",
+        "criminal history check",
+        "COV 19.2-13",
+        "Special Conservator of the Peace",
+        "employment background check",
+        "court-requested background"
+      ],
+      "exclusions": [
+        "100708",
+        "100727"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005664",
+      "series_title": "Breath/Alcohol or Drug Testing Records",
+      "series_description": "This series documents the collection and testing of breath/alcohol or drug tests on vehicle operators. This series may consist of, but is not limited to: logs and reports not included in case files.",
+      "series_retention_period": "3 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Breath/Alcohol or Drug Testing Records: This series documents the collection and testing of breath/alcohol or drug tests on vehicle operators. This series may consist of, but is not limited to: logs and reports not included in case files.",
+      "scope_notes": "Applies to standalone breath/alcohol or drug test records on vehicle operators NOT included in an investigative case file. If the test is part of a DUI case file, it belongs with the investigative case file series.",
+      "key_criteria": [
+        "breath test",
+        "alcohol test",
+        "drug test",
+        "breathalyzer",
+        "blood alcohol",
+        "BAC test",
+        "DUI test",
+        "field sobriety"
+      ],
+      "exclusions": [
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007045",
+      "series_title": "Building Plans",
+      "series_description": "This series documents buildings and other structures including, but not limited to floor plans, and the layout of plumbing, electrical, and other internal systems, as required by the Virginia Fire Prevention Code and the Virginia Uniform Statewide Building Code. This series may include, but is not limited to: blueprints, building plans, permitting and inspection information, and supporting documentation.",
+      "series_retention_period": "0 Years after equipment, facility, or property sold or no longer in use",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Building Plans: This series documents buildings and other structures including, but not limited to floor plans, and the layout of plumbing, electrical, and other internal systems, as required by the Virginia Fire Prevention Code and the Virginia Uniform Statewide Building Code. This series may include, but is not limited to: blueprints, building plans, permitting and inspection information, and supporting documentation.",
+      "scope_notes": "Applies to building blueprints, floor plans, and structural documentation required by fire prevention codes. Retained until the building is sold or no longer in use.",
+      "key_criteria": [
+        "building plans",
+        "floor plans",
+        "blueprints",
+        "building layout",
+        "plumbing plans",
+        "electrical plans",
+        "fire prevention code building",
+        "building documentation"
+      ],
+      "exclusions": [
+        "007043"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100726",
+      "series_title": "Community Crime Prevention Program Files",
+      "series_description": "This series documents law enforcement's effort to develop and assist community based crime prevention programs. This series may consist of, but is not limited to: neighborhood watch, national night out, and similar program documentation.",
+      "series_retention_period": "0 Years after superseded, obsolete, or rescinded",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Community Crime Prevention Program Files (Series 100726): This series documents law enforcement-led community crime prevention initiatives. Retention: until superseded or obsolete. Records include: neighborhood watch program records, National Night Out event documentation, community outreach program files, crime prevention workshop materials, Block Watch coordinator lists, Citizen Patrol program documentation. Distinct from Community Educational Programs (100746) which focuses on citizen education academies.",
+      "scope_notes": "Applies to law enforcement-led community crime prevention outreach programs — neighborhood watch, National Night Out, Block Watch. Distinct from Community Educational Programs (100746) which focuses on citizen academies and drug/gang awareness education.",
+      "key_criteria": [
+        "neighborhood watch",
+        "National Night Out",
+        "crime prevention program",
+        "Block Watch",
+        "community crime prevention",
+        "citizen patrol program",
+        "crime prevention outreach"
+      ],
+      "exclusions": [
+        "100746"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100746",
+      "series_title": "Community Educational Programs",
+      "series_description": "This series documents law enforcement participation in citizen education programs. This series may include, but is not limited to: citizen and youth Police Academies and substance abuse/gang awareness programs.",
+      "series_retention_period": "0 Years after superseded, obsolete, or rescinded",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Community Educational Programs (Series 100746): This series documents law enforcement participation in CITIZEN EDUCATION programs including police academies for civilians and drug/gang awareness programs. Retention: until superseded or obsolete. Records include: Citizen Police Academy rosters, Youth Police Academy program materials, substance abuse awareness program records, gang prevention education files, school resource officer program documentation. Distinct from Crime Prevention Program Files (100726) which focuses on neighborhood watch and patrol programs.",
+      "scope_notes": "Applies to citizen education programs — police academies for the public, youth academies, drug and gang awareness programs. Distinct from Community Crime Prevention Program Files (100726) which is for neighborhood watch and patrol coordination.",
+      "key_criteria": [
+        "citizen police academy",
+        "youth police academy",
+        "drug awareness program",
+        "gang awareness",
+        "substance abuse program",
+        "school resource officer program",
+        "citizen education"
+      ],
+      "exclusions": [
+        "100726"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200132",
+      "series_title": "Compensation Board Certification Program Records",
+      "series_description": "This series documents compliance with the Compensation Board's standards for the Career Development Program for Sheriffs. This series includes, but it not limited to: compliance forms, standards, proofs, and audit reports.",
+      "series_retention_period": "4 Years after audit",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Compensation Board Certification Program Records (Series 200132): This series documents compliance with the Virginia Compensation Board's CAREER DEVELOPMENT PROGRAM FOR SHERIFFS. Retention: 4 years after audit. Records include: compliance forms, certification standards, proof of compliance, audit reports, career development program documentation for sheriff's offices. Distinct from general accreditation (CALEA, VLEPSC) — specifically for the Compensation Board's sheriff career development certification.",
+      "scope_notes": "Applies specifically to the Virginia Compensation Board Career Development Program certification for sheriff offices. Distinct from CALEA and VLEPSC accreditation.",
+      "key_criteria": [
+        "Compensation Board",
+        "career development program",
+        "sheriff certification",
+        "compensation board certification",
+        "sheriff career development"
+      ],
+      "exclusions": [
+        "200141",
+        "100814"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100727",
+      "series_title": "Concealed Handgun Permit Checks or Logs",
+      "series_description": "This series documents the information or consultation provided to the court regarding concealed handgun permit applicants, as well as any notice received from the court on permits granted, denied, or appealed. This series may include, but is not limited to: reports and notices. COV 18.2-308(D)",
+      "series_retention_period": "2 Years after expiration",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Concealed Handgun Permit Checks or Logs (Series 100727): This series documents law enforcement's role in CONCEALED HANDGUN PERMIT (CHP) applications — providing information to courts and receiving permit decisions. COV 18.2-308(D). Retention: 2 years after expiration. Records include: CHP applicant background check results, court consultation reports, permit granted/denied notification, permit appeal records. Distinct from general background checks (100772) — specifically for concealed carry firearm permit applications.",
+      "scope_notes": "Applies specifically to concealed handgun permit (CHP) consultation records between law enforcement and the court. COV 18.2-308(D). Distinct from general background checks (100772).",
+      "key_criteria": [
+        "concealed handgun permit",
+        "CHP",
+        "concealed carry permit",
+        "concealed weapon permit",
+        "handgun permit",
+        "COV 18.2-308"
+      ],
+      "exclusions": [
+        "100772"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100728",
+      "series_title": "Confidential Informant Files",
+      "series_description": "This series documents the identity of, contacts with, and reliability of confidential informants. This series may include, but is not limited to: photographs, identification number, and background notes.",
+      "series_retention_period": "75 Years after birth",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Confidential Informant Files (Series 100728): This series documents the identity, contacts, history, and reliability assessments of law enforcement CONFIDENTIAL INFORMANTS (CIs). Retention: 75 years after birth. Records include: informant identification number, informant identity (confidential), reliability rating, handler/detective contact logs, payments made, information provided, background checks, photographs, agreements signed. Highly confidential — long retention due to ongoing safety concerns.",
+      "scope_notes": "Applies to confidential informant (CI) identity, reliability, and contact records. Highly confidential. Retained 75 years after birth due to ongoing safety concerns.",
+      "key_criteria": [
+        "confidential informant",
+        "CI",
+        "informant identity",
+        "informant reliability",
+        "handler contact log",
+        "informant payment",
+        "informant background"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100729",
+      "series_title": "Confiscated or Surrendered Firearms Files",
+      "series_description": "This series documents the confiscation of or acceptance of surrendered firearms by or to law enforcement authorities and the disposition of the firearm. This series may include, but is not limited to: description of firearm, court order, disposition, and other documentation.",
+      "series_retention_period": "75 Years after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Confiscated or Surrendered Firearms Files (Series 100729): This series documents LAW ENFORCEMENT SEIZURE or ACCEPTANCE of surrendered firearms and their subsequent disposition. Retention: 75 years after last action. Records include: firearm description (make, model, caliber, serial number), court order authorizing confiscation, chain of custody, method of acquisition (confiscated or voluntarily surrendered), disposition (destroyed, transferred, returned), supporting documentation. Distinct from Evidence firearms in case files.",
+      "scope_notes": "Applies to firearms seized by court order or voluntarily surrendered to law enforcement — and their chain of custody and final disposition. Distinct from evidence firearms in investigative case files.",
+      "key_criteria": [
+        "confiscated firearm",
+        "surrendered firearm",
+        "firearm confiscation",
+        "seized firearm",
+        "firearm surrender",
+        "weapon confiscation",
+        "firearm disposition",
+        "chain of custody firearm"
+      ],
+      "exclusions": [
+        "100762",
+        "100635"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100733",
+      "series_title": "Court Appearance Files",
+      "series_description": "This series documents the scheduling and/or appearance of law enforcement officers or support staff in court proceedings in the course of law enforcement activities. This series may include, but is not limited to: Overtime cards, time sheets, supplemental incident reports, and logs.",
+      "series_retention_period": "2 Years after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Court Appearance Files (Series 100733): This series documents the scheduling and attendance of law enforcement OFFICERS AND STAFF at court proceedings related to cases they worked. Retention: 2 years after event. Records include: court appearance schedule, overtime cards, time sheets, supplemental incident reports used in testimony, court appearance logs, subpoena records, officer court duty roster. Administrative record of officer court appearances — not the case files themselves.",
+      "scope_notes": "Applies to administrative scheduling and attendance records for law enforcement officers appearing in court. Not the underlying case files — administrative officer attendance record only.",
+      "key_criteria": [
+        "court appearance",
+        "officer court appearance",
+        "court schedule",
+        "court overtime",
+        "subpoena",
+        "court attendance",
+        "court duty roster",
+        "officer testimony"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200142",
+      "series_title": "Court Ordered and Other Process Records",
+      "series_description": "This series documents the receipt and execution of, or failure to execute, court orders and/or other processes that include Extraditions, Hit Retentions, Subpoenas, Summonses, Copies/jackets of Executed Warrants, Warning Tickets, Affidavits, Eviction Notices, Levies to Foreclose, Seize and/or Sell Property, Parking Ticket Summonses, Virginia Uniform Summonses, and other legal action against an individual, family, firm or other entity. This series may include, but is not limited to: logs, registers, copies of orders, and other tracking documentation. COV 19.2-84 - 118",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Court Ordered and Other Process Records (Series 200142): This series documents the receipt, tracking, logging, and execution (service) of court-ordered legal processes, civil processes, and judicial writs by sheriffs or law enforcement deputies. Process execution records include: process server logs, return of service documentation, execution tracking registers, proof of service affidavits, civil process intake forms, notice of service, unserved process returns, fee collection for process serving. COV 19.2-84 through 118. Retention: 1 year after last action. Covers the administrative receipt and service tracking log for legal process delivery — distinct from underlying case files or specific protective orders.",
+      "scope_notes": "Applies STRICTLY to administrative tracking of serving court-ordered legal processes, civil processes, writs, and summonses. NEVER use for criminal investigations — those belong to Investigative Case Files. Distinct from Protective Orders (200143).",
+      "key_criteria": [
+        "court ordered process",
+        "process serving",
+        "return of service",
+        "service of process",
+        "eviction notice",
+        "writ",
+        "subpoena service",
+        "levy",
+        "court summons",
+        "extradition",
+        "civil process",
+        "process server log",
+        "Virginia Uniform Summons",
+        "executed warrant"
+      ],
+      "exclusions": [
+        "200143",
+        "100669",
+        "200146",
+        "200147",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200143",
+      "series_title": "Court Ordered Process Records: Protective Orders",
+      "series_description": "This series documents the receipt and execution of, or failure to execute, court orders and/or other processes that include Adult Protective Orders, Child Protective Orders, Emergency Protective Orders, and Juvenile Detention Orders. This series may include, but is not limited to: logs, registers, copies of orders, and other tracking documentation. COV 16.1-251 to 254; COV 63.2-1606 - 1613",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Court Ordered Process Records: Protective Orders: This series documents the receipt and execution of, or failure to execute, court orders and/or other processes that include Adult Protective Orders, Child Protective Orders, Emergency Protective Orders, and Juvenile Detention Orders. This series may include, but is not limited to: logs, registers, copies of orders, and other tracking documentation. COV 16.1-251 to 254; COV 63.2-1606 - 1613",
+      "scope_notes": "Applies specifically to protective orders — Adult Protective Orders, Child Protective Orders, Emergency Protective Orders, and Juvenile Detention Orders. Confidential. Distinct from general process records (200142).",
+      "key_criteria": [
+        "protective order",
+        "adult protective order",
+        "child protective order",
+        "emergency protective order",
+        "juvenile detention order",
+        "restraining order",
+        "COV 16.1-251",
+        "COV 63.2-1606"
+      ],
+      "exclusions": [
+        "200142",
+        "100669"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100669",
+      "series_title": "Court Ordered Process Records: Residence Verification Records",
+      "series_description": "This series documents the receipt and execution of, or failure to execute, court orders for residence verifications. This series may include, but is not limited to: logs, registers, copies of orders, and other tracking documentation.",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Court Ordered Process Records: Residence Verification Records: This series documents the receipt and execution of, or failure to execute, court orders for residence verifications. This series may include, but is not limited to: logs, registers, copies of orders, and other tracking documentation.",
+      "scope_notes": "Applies specifically to court-ordered residence verification process records. Distinct from general process serving (200142) and protective orders (200143).",
+      "key_criteria": [
+        "residence verification",
+        "court ordered residence",
+        "address verification order",
+        "court order residence check"
+      ],
+      "exclusions": [
+        "200142",
+        "200143"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100735",
+      "series_title": "Crime Analysis Files",
+      "series_description": "This series documents the formal and/or informal analysis of crimes, patterns of crimes, and the reporting of the analysis. This series may include, but is not limited to: PIN maps, criminal activity statistics, and profiles of criminal activity.",
+      "series_retention_period": "0 Years after superseded, obsolete, or rescinded",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Crime Analysis Files (Series 100735): This series documents statistical and geographic CRIME ANALYSIS — identifying crime patterns, trends, and hotspots. Retention: until superseded or obsolete. Records include: crime pattern analysis, PIN maps, crime mapping data, criminal activity statistics, crime hotspot reports, offender profiles, trend analysis reports, crime forecasting data. Analytical/intelligence records used for law enforcement resource allocation and crime prevention strategy.",
+      "scope_notes": "Applies to statistical and geographic crime pattern analysis — aggregate data used for resource allocation. Not individual case files.",
+      "key_criteria": [
+        "crime analysis",
+        "crime pattern",
+        "crime statistics",
+        "PIN map",
+        "crime mapping",
+        "hotspot analysis",
+        "criminal activity statistics",
+        "crime trend analysis",
+        "crime forecasting"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100739",
+      "series_title": "Criminal History Records: Local Information Requests and Challenges",
+      "series_description": "This series documents the process by which local law enforcement offices receive requests from local individuals regarding their information contained in the local law enforcement records (including their criminal histories), any challenges to that information or history, the investigation conducted, the response, and the documentation indicating the close of the inquiry or challenge. This series may include, but is not limited to: request forms, correspondence, and research notes. COV 9.1-132; 6VAC20-120-50 (B.5.)",
+      "series_retention_period": "2 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Criminal History Records: Local Information Requests and Challenges (Series 100739): This series documents individuals requesting or challenging their own LOCAL CRIMINAL HISTORY records. Retention: 2 years after closed. COV 9.1-132. Records include: individual request for own criminal history, challenge to record accuracy, investigation of challenge, response letter, correction documentation, inquiry closure notice. Distinct from general criminal records — this covers the citizen-initiated review and challenge process.",
+      "scope_notes": "Applies to citizen-initiated requests to access or challenge their own local criminal history records. COV 9.1-132. Not general background checks.",
+      "key_criteria": [
+        "criminal history request",
+        "record challenge",
+        "own criminal history",
+        "criminal history inquiry",
+        "COV 9.1-132",
+        "record accuracy challenge",
+        "local information request"
+      ],
+      "exclusions": [
+        "100772"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000342",
+      "series_title": "Dangerous Dog Records",
+      "series_description": "This series documents any complaints, investigations, or incidents involving dogs that are determined to be dangerous or vicious. COV 3.2-6540",
+      "series_retention_period": "5 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Dangerous Dog Records (Series 000342): This series documents DANGEROUS or VICIOUS DOG cases — complaints, investigations, and incidents involving dogs officially determined to be dangerous or vicious under Virginia law. COV 3.2-6540. Retention: 5 years after closed. Records include: dangerous dog determination order, court finding, dog owner information, incident reports, attack/bite documentation, dangerous dog registration, required muzzle/restraint compliance. Distinguished from general Animal Control Files (100711) by the official dangerous/vicious designation under COV 3.2-6540.",
+      "scope_notes": "Applies to dogs officially determined to be dangerous or vicious under COV 3.2-6540 — formal legal designation. Distinct from general Animal Control Files (100711).",
+      "key_criteria": [
+        "dangerous dog",
+        "vicious dog",
+        "dangerous dog determination",
+        "dangerous dog order",
+        "dangerous dog registration",
+        "COV 3.2-6540",
+        "dog declared dangerous"
+      ],
+      "exclusions": [
+        "100711"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200163",
+      "series_title": "Dispatch (Communications) and Emergency Call Recordings: Not Retained as Evidence",
+      "series_description": "This series documents the radio communications between dispatch/central communications and officers in the field. This series also documents the recording of incoming calls (including Next Generation 911) for fire, police, and rescue services, and the actions taken in response. This series may include, but is not limited to: audio recordings, video recordings, text messages, and photographs.",
+      "series_retention_period": "6 Months after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Dispatch (Communications) and Emergency Call Recordings: Not Retained as Evidence (Series 200163): This series documents AUDIO AND VIDEO RECORDINGS of radio dispatch communications and 911/emergency calls NOT retained as evidence. Retention: 6 months after event. Records include: radio dispatch audio recordings, 911 call recordings, Next Generation 911 recordings, body camera communications, text message communications, photographs — where content is NOT needed as evidence. Short 6-month retention distinguishes from the supporting documentation series (200164).",
+      "scope_notes": "Applies ONLY to AUDIO AND VIDEO RECORDINGS of radio dispatch and 911/emergency calls — not written logs. Not retained as evidence. Retention is 6 months. Key test: if it is a recording (audio/video), it belongs here; if it is a written log or CAD report, it belongs in 200164.",
+      "key_criteria": [
+        "dispatch audio",
+        "dispatch recording",
+        "911 call audio",
+        "911 recording",
+        "radio recording",
+        "voice recording",
+        "emergency call recording",
+        "audio recording",
+        "voice communication recording",
+        "Next Generation 911"
+      ],
+      "exclusions": [
+        "200164"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200164",
+      "series_title": "Dispatch (Communications) and Emergency Call Records: Supporting Documentation",
+      "series_description": "This series documents the recording of radio communications at law enforcement dispatch centers and incoming calls for fire, police and rescue services, and the actions taken in response. This series may include, but is not limited to: logs, reports, and supporting documentation including Computer Aided Dispatch software and Calls- for-Service reports.",
+      "series_retention_period": "10 Years after creation",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Dispatch (Communications) and Emergency Call Records: Supporting Documentation (Series 200164): This series documents COMPUTER-AIDED DISPATCH (CAD) LOGS, reports, and supporting records — the written/electronic documentation of dispatch operations. Retention: 10 years after creation (much longer than the recordings series). Records include: CAD system logs, Calls-for-Service (CFS) reports, dispatch activity reports, incident logs, radio communication reports, Computer Aided Dispatch software records. Distinguished from the recordings series (200163) by being written/digital logs rather than audio/video recordings, and by the much longer 10-year retention.",
+      "scope_notes": "Applies to WRITTEN and ELECTRONIC dispatch documentation — CAD logs, Calls-for-Service reports, dispatch event logs, incident printouts. NOT audio/video recordings (those are 200163). Retention is 10 years. Key test: if it is a written log, CAD printout, or CFS report, it belongs here; if it is an audio/video recording, it belongs in 200163.",
+      "key_criteria": [
+        "CAD",
+        "computer aided dispatch",
+        "calls for service",
+        "CFS",
+        "dispatch log",
+        "dispatch event log",
+        "incident log",
+        "CAD report",
+        "dispatch activity report",
+        "calls-for-service report",
+        "dispatch supporting documentation"
+      ],
+      "exclusions": [
+        "200163"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100745",
+      "series_title": "Duty Rosters",
+      "series_description": "This series documents the work days, work hours, jobs, tasks, patrol areas, equipment, weapons, and other duties assigned to law enforcement officers. This series may include, but is not limited to: logs, rolls, rosters, and registers.",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Duty Rosters (Series 100745): This series documents OFFICER ASSIGNMENTS — work schedules, patrol areas, equipment, tasks, and duties assigned to individual law enforcement officers. Retention: 1 year after last action. Records include: duty roster, shift schedule, patrol zone assignment, equipment assignment, weapon assignment, special detail assignments, officer work hours log. Administrative scheduling record — distinct from Roll Call Files (100802) which documents attendance at specific meetings.",
+      "scope_notes": "Applies to officer assignment schedules. Administrative scheduling record. Distinct from Roll Call Files (100802) which documents attendance at specific meetings.",
+      "key_criteria": [
+        "duty roster",
+        "shift schedule",
+        "patrol assignment",
+        "officer assignment",
+        "work schedule",
+        "patrol zone",
+        "officer duty",
+        "shift assignment"
+      ],
+      "exclusions": [
+        "100802"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000121",
+      "series_title": "Expungements",
+      "series_description": "This series documents the process of destroying law enforcement records, including all copies thereof and references thereto, that have been ordered expunged and sealed by the court. This series may include, but is not limited to: expunged records, court orders, and indexes/finding aids. 6VAC20-120-80; COV 19.2-392.2",
+      "series_retention_period": "3 Years after order",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Expungements (Series 000121): This series documents the COURT-ORDERED DESTRUCTION AND SEALING of law enforcement arrest and criminal records. COV 19.2-392.2. Retention: 3 years after expungement order. Records include: court expungement order, list of records ordered expunged, confirmation of record destruction, indexes/finding aids destroyed, copies and references removed. This is the administrative record of the expungement process — not the underlying criminal records (which are destroyed).",
+      "scope_notes": "Applies to the administrative documentation of court-ordered record expungement. COV 19.2-392.2. Retained 3 years after the expungement order.",
+      "key_criteria": [
+        "expungement",
+        "expunged record",
+        "court ordered expungement",
+        "record sealing",
+        "COV 19.2-392.2",
+        "record destruction order",
+        "expunged arrest"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200445",
+      "series_title": "FCC License Records",
+      "series_description": "This series documents the initial/renewed licensing of radio communication sites. This series may include, but is not limited to: FCC license and supporting documentation.",
+      "series_retention_period": "3 Years after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "FCC License Records (Series 200445): This series documents FCC (Federal Communications Commission) licensing of law enforcement RADIO COMMUNICATION SITES and frequencies. Retention: 3 years after event. Records include: FCC license certificate, radio frequency authorization, license renewal documentation, communications site registration, supporting documentation. Administrative licensing records for law enforcement radio infrastructure.",
+      "scope_notes": "Applies to FCC licensing of law enforcement radio communication infrastructure. Administrative licensing records.",
+      "key_criteria": [
+        "FCC license",
+        "FCC",
+        "Federal Communications Commission",
+        "radio license",
+        "radio frequency authorization",
+        "communications site license",
+        "radio communication license"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000344",
+      "series_title": "Field Notes: Not Retained as Evidence",
+      "series_description": "This series documents and consists of the notes made from contacts and interviews conducted in the field with known/suspected law breakers by a law enforcement agent in regards to investigations, modus operandi, and/or complaint resolution. 28CFR23.20(h)",
+      "series_retention_period": "5 Years after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Field Notes: Not Retained as Evidence (Series 000344): This series documents OFFICER FIELD NOTES from interviews and contacts with suspects, known offenders, or witnesses that are NOT incorporated into any case file as evidence. 28CFR23.20(h). Retention: 5 years after last action. Records include: officer's handwritten or digital field notes, interview notes, modus operandi observations, contact logs, complaint resolution notes. Distinguished from case file evidence — these notes are standalone and not submitted as court evidence.",
+      "scope_notes": "Applies to officer field notes from suspect/witness contacts NOT incorporated into any case file as evidence. 28CFR23.20(h). Standalone working notes only.",
+      "key_criteria": [
+        "field notes",
+        "officer field notes",
+        "interview notes",
+        "contact notes",
+        "modus operandi notes",
+        "working notes",
+        "field interview",
+        "not retained as evidence"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100758",
+      "series_title": "Fingerprints and Photographs: Juvenile - No Warrant or Petition Filed",
+      "series_description": "This series documents and consists of the fingerprints and photographs taken of a juvenile in connection with an alleged violation of law, but against whom no warrant or petition was subsequently filed. COV 16.1-299(C)",
+      "series_retention_period": "60 Days after creation",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Fingerprints and Photographs: Juvenile - No Warrant or Petition Filed (Series 100758): This series documents fingerprints and photographs taken of a JUVENILE in connection with an alleged law violation where NO WARRANT OR PETITION was subsequently filed. COV 16.1-299(C). Retention: 60 days after creation (very short — destroyed quickly when no charges filed). Records include: juvenile fingerprint cards, juvenile photographs/mugshots taken at time of contact — destroyed within 60 days when prosecution does not proceed.",
+      "scope_notes": "Applies ONLY to fingerprints and photographs of a JUVENILE taken when NO warrant or delinquency petition was subsequently filed. COV 16.1-299(C). Retention is only 60 days. If a petition WAS filed, the file belongs to Juvenile Arrest Files (100714).",
+      "key_criteria": [
+        "juvenile fingerprints",
+        "juvenile photographs",
+        "no warrant filed",
+        "no petition filed",
+        "no charges filed juvenile",
+        "COV 16.1-299",
+        "juvenile no warrant",
+        "juvenile no petition"
+      ],
+      "exclusions": [
+        "100714"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007043",
+      "series_title": "Fire Code Compliance Inspection Reports",
+      "series_description": "This series documents Virginia Fire Prevention Code compliance inspections and all other mandated fire inspections carried out by emergency services personnel. This series includes, but is not limited to: inspection reports, photographs, notices of violation, and supporting documentation.",
+      "series_retention_period": "10 Years after submission",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Fire Code Compliance Inspection Reports (Series 007043): This series documents VIRGINIA FIRE PREVENTION CODE compliance inspections conducted by fire and emergency services personnel. Retention: 10 years after submission. Records include: fire inspection report, building inspection findings, violations noted, notice of violation, required corrective actions, re-inspection records, photographs of violations, compliance confirmation. Distinct from Fire & Rescue Incident Reports (007037) — these are scheduled compliance inspections, not emergency response incidents.",
+      "scope_notes": "Applies to scheduled fire code compliance inspections of buildings under the Virginia Fire Prevention Code. NOT emergency incident responses. Distinct from Fire and Rescue Incident Reports (007037) which are emergency responses.",
+      "key_criteria": [
+        "fire code compliance",
+        "fire inspection",
+        "Virginia Fire Prevention Code",
+        "fire code inspection",
+        "notice of violation",
+        "fire inspection report",
+        "building fire inspection",
+        "annual fire inspection"
+      ],
+      "exclusions": [
+        "007037",
+        "007046"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200392",
+      "series_title": "Fire Training: Class Records",
+      "series_description": "This series documents all aspects of firefighter training classes. This series may include, but is not limited to: rosters, intern sheets, lesson plans and curriculum information, instructor information, attendance records, and course and instructor evaluations.",
+      "series_retention_period": "5 Years after end of calendar year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Fire Training: Class Records (Series 200392): This series documents FIREFIGHTER TRAINING classes including all aspects of instruction and attendance. Retention: 5 years after end of calendar year. Records include: training class roster, intern/recruit sheets, lesson plans, curriculum, instructor information, attendance records, course completion records, instructor evaluations, training certification. Personnel training documentation for fire and rescue staff — distinct from field incident reports.",
+      "scope_notes": "Applies to firefighter/emergency services training class documentation. Personnel training records, not incident records.",
+      "key_criteria": [
+        "firefighter training",
+        "fire training class",
+        "training roster",
+        "fire recruit training",
+        "fire department training",
+        "training curriculum",
+        "training attendance"
+      ],
+      "exclusions": [
+        "007037",
+        "007043"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100761",
+      "series_title": "Firearms Qualifications",
+      "series_description": "This series documents an officer's qualifications and proficiency in the use of selected types of firearms through scheduled testing. This series may include, but is not limited to: testing criteria, test results, and certifications.",
+      "series_retention_period": "5 Years after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Firearms Qualifications (Series 100761): This series documents law enforcement OFFICER FIREARMS PROFICIENCY TESTING and qualification through scheduled range testing. Retention: 5 years after event. Records include: firearms qualification test results, scoring sheets, passing/failing status, weapon type tested, certification of proficiency, qualification date, officer name and badge number. Annual or periodic qualification record — distinct from Weapons: Internal Assignments (100762) which covers weapon custody.",
+      "scope_notes": "Applies to officer firearms proficiency testing and qualification scores. Distinct from Weapons: Internal Assignments (100762) which tracks custody, and Weapons: Inventory (100635) which is asset control.",
+      "key_criteria": [
+        "firearms qualification",
+        "firearms proficiency",
+        "range qualification",
+        "shooting proficiency",
+        "qualification scores",
+        "firearms certification",
+        "range testing",
+        "firearms test"
+      ],
+      "exclusions": [
+        "100762",
+        "100635"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100765",
+      "series_title": "General Orders and Regulations",
+      "series_description": "This series documents the local and internal orders, rules, and regulations for law enforcement activities. This series may include, but is not limited to registers, logs, and other policy documentation.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "General Orders and Regulations (Series 100765): This series documents the internal POLICY ORDERS, RULES, AND REGULATIONS governing law enforcement operations. Retention: until no longer administratively useful. Records include: general orders, special orders, department policies, standard operating procedures (SOPs), regulations, policy manuals, law enforcement directives. Administrative policy records — not operational field records.",
+      "scope_notes": "Applies to internal policy, rules, and regulations governing law enforcement operations. Administrative policy records, not operational field records.",
+      "key_criteria": [
+        "general orders",
+        "department policy",
+        "standard operating procedure",
+        "SOP",
+        "regulations",
+        "policy manual",
+        "law enforcement directive",
+        "internal orders",
+        "department rules"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007100",
+      "series_title": "Hazardous Materials Files",
+      "series_description": "This series documents incidents that involve hazardous materials that are responded to by qualified and/or certified personnel and/or emergency response personnel. Incidents may include hazardous material spills, releases, leaks, dump sites, and explosions. This series includes, but is not limited to: hazardous materials incident report, memoranda, lab reports, samples, and supporting documentation.",
+      "series_retention_period": "50 Years after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Hazardous Materials Files (Series 007100): This series documents HAZMAT INCIDENTS responded to by certified/qualified emergency response personnel. Retention: 50 years after event (long due to environmental and health liability). Records include: hazardous materials incident report, spill/release/leak documentation, hazmat response team records, lab analysis reports, environmental samples, exposure records, remediation actions, explosives incident. Distinct from regular Fire & Rescue Incident Reports by the hazardous materials context and very long 50-year retention.",
+      "scope_notes": "Applies to HAZMAT incidents — spills, releases, leaks, explosions involving hazardous materials responded to by certified hazmat teams. Retention is 50 years. Distinct from routine Fire and Rescue Incident Reports (007037).",
+      "key_criteria": [
+        "hazardous materials",
+        "hazmat",
+        "hazmat incident",
+        "chemical spill",
+        "chemical release",
+        "hazmat response",
+        "hazmat team",
+        "chemical leak",
+        "hazmat spill",
+        "explosives incident"
+      ],
+      "exclusions": [
+        "007037",
+        "007046",
+        "007043"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100767",
+      "series_title": "House Watch Checklists and Reports",
+      "series_description": "This series documents the performance and/or completion of a house watch. This series may include, but is not limited to: citizen request form, property description, and officer-response verification.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "House Watch Checklists and Reports (Series 100767): This series documents PATROL OFFICER house watch checks performed on citizen properties (typically while owners are away). Retention: until no longer administratively useful. Records include: citizen request form, property address and description, officer check-in verification, patrol schedule, contact information. Administrative patrol coordination record — not an incident or investigation.",
+      "scope_notes": "Applies to patrol officer house watch checks performed at citizen request. Administrative patrol coordination, not an incident or investigation.",
+      "key_criteria": [
+        "house watch",
+        "vacation house check",
+        "property watch check",
+        "officer house watch",
+        "citizen property watch"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007037",
+      "series_title": "Incident Reports: Emergency Services, Fire and Rescue",
+      "series_description": "This series documents incidents to which emergency services and/or fire and rescue staff respond and may include address, units and personnel responding, hospital transportation information, summaries, and time stamps. This series may include, but is not limited to: reports and station or unit logs.",
+      "series_retention_period": "6 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Incident Reports: Emergency Services, Fire and Rescue (Series 007037): This series documents EMERGENCY INCIDENTS responded to by fire and rescue / emergency services units. Retention: 6 years after event. Records include: fire incident report, structure fire documentation, rescue incident report, emergency medical response report, responding units (engine, ladder, rescue, paramedic), incident commander, responding personnel, address, arrival time, incident duration, occupant information, evacuation status, injuries, cause of fire (unattended cooking, electrical, arson), damage assessment, estimated loss, insurance information, photographs. Covers fire suppression, technical rescue, and emergency medical incidents.",
+      "scope_notes": "Applies to field incident reports for fire suppression, technical rescue, and emergency medical responses. NOT CAD dispatch logs (200164), NOT EMS patient care reports (007046), NOT hazmat (007100), and NOT fire code inspections (007043).",
+      "key_criteria": [
+        "fire incident report",
+        "structure fire",
+        "fire and rescue incident",
+        "emergency services incident",
+        "incident commander",
+        "fire suppression",
+        "rescue incident",
+        "fire damage assessment",
+        "fire investigation"
+      ],
+      "exclusions": [
+        "200164",
+        "007046",
+        "007100",
+        "007043"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100770",
+      "series_title": "Internal Affairs Complaints",
+      "series_description": "This series documents internal, confidential, administrative investigations based on complaints against law enforcement officers and/or offices, and include founded and un-founded cases. This series may include, but is not limited to: complaint documentation, notes, findings, and reports.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Internal Affairs Complaints (Series 100770): This series documents CONFIDENTIAL INTERNAL AFFAIRS investigations into complaints against law enforcement officers or agency offices. Retention: until no longer administratively useful. Records include: citizen or internal complaint, investigation notes, interview transcripts, findings report, founded or unfounded determination, disciplinary action or exoneration records. Strictly confidential — distinct from operational case files and citizen-facing reports.",
+      "scope_notes": "Applies to confidential internal affairs investigations into complaints against officers. Not operational case files.",
+      "key_criteria": [
+        "internal affairs",
+        "complaint against officer",
+        "internal investigation",
+        "officer complaint",
+        "internal affairs investigation",
+        "officer misconduct",
+        "founded complaint",
+        "unfounded complaint"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000345",
+      "series_title": "Investigative Case Files: Historically Significant",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts, and that local law enforcement determines to have historical value.",
+      "series_retention_period": "",
+      "series_disposition_method": "Permanent, In Agency",
+      "text_to_embed": "Investigative Case Files: Historically Significant (Series 000345): This series documents criminal investigations that local law enforcement has determined to have PERMANENT HISTORICAL VALUE. Disposition: Permanent, In Agency — records are NEVER destroyed. Includes landmark cases, cold cases of historical importance, notorious crimes, significant civil rights cases, or investigations that shaped law enforcement policy. Distinguished from other investigative file series by permanent retention and historical significance designation. May include any offense type — the defining characteristic is the historical/archival value determination by law enforcement leadership.",
+      "scope_notes": "Applies to criminal investigations officially designated as having PERMANENT HISTORICAL VALUE. Retention is PERMANENT. The historical significance designation by law enforcement leadership is the defining criterion.",
+      "key_criteria": [
+        "historically significant",
+        "permanent retention",
+        "historical case",
+        "landmark case",
+        "cold case historical",
+        "historically significant investigation",
+        "permanent record",
+        "archival case"
+      ],
+      "exclusions": [
+        "100771",
+        "200145",
+        "200146",
+        "200147",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200146",
+      "series_title": "Investigative Case Files: Less Serious Offenses - Resolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: assault, burglary, deaths, destruction of property, drug/narcotic offenses, extortion, gambling, identity theft, Intimidation, larceny, pornography, prostitution, robbery, arson, suicide, vandalism, and weapons law violations. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non-weapon) Property, City-wide/In-car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "30 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Less Serious Offenses - Resolved (Series 200146): This series documents CLOSED and RESOLVED criminal investigations involving less serious offenses. Case status: CLOSED - RESOLVED. Retention: 30 years after closed. Offense types (less serious): assault, burglary, destruction of property, drug/narcotic offenses, extortion, gambling, identity theft, intimidation, larceny, pornography, prostitution, robbery, arson, suicide, vandalism, weapons law violations. Records include: incident report, detective notes, evidence (fingerprints, photographs, lab reports), suspect and victim information, witness statements, arrest records, case disposition, guilty plea or conviction, breath alcohol test. This series is for resolved/closed cases only — not ongoing investigations.",
+      "scope_notes": "Applies to CLOSED and RESOLVED criminal investigations involving LESS SERIOUS offenses — burglary, larceny, drug/narcotics, extortion, identity theft, fraud, embezzlement, arson, vandalism. Case must be RESOLVED/CLOSED. For unresolved less-serious cases use 200147. For serious felonies use 100771.",
+      "key_criteria": [
+        "burglary",
+        "larceny",
+        "grand larceny",
+        "drug offense",
+        "narcotics",
+        "drug possession",
+        "drug distribution",
+        "identity theft",
+        "fraud",
+        "embezzlement",
+        "extortion",
+        "vandalism",
+        "arson",
+        "robbery",
+        "case closed",
+        "case resolved",
+        "convicted",
+        "guilty plea",
+        "sentenced",
+        "disposed",
+        "less serious resolved"
+      ],
+      "exclusions": [
+        "200147",
+        "100771",
+        "200145",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200147",
+      "series_title": "Investigative Case Files: Less Serious Offenses - Unresolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: assault, burglary, deaths, destruction of property, drug/narcotic offenses, extortion, gambling, identity theft, Intimidation, larceny, pornography, prostitution, robbery, arson, suicide, vandalism, and weapons law violations. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non-weapon) Property, City-wide/In-car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "50 Years after creation",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Less Serious Offenses - Unresolved (Series 200147): This series documents OPEN, ONGOING, and UNRESOLVED criminal investigations involving less serious offenses. Case status: UNRESOLVED - OPEN - ACTIVE. Retention: 50 years after creation. Offense types (less serious): assault, burglary, destruction of property, drug/narcotic offenses, extortion, gambling, identity theft, intimidation, larceny, pornography, prostitution, robbery, arson, suicide, vandalism, weapons law violations. Records include: open case file, active investigation notes, field notes, ongoing evidence collection (fingerprints, photographs, lab analysis), suspect leads, witness interviews, VCIN/NCIC entries, dispatch communications. This series covers active, unsolved cases where investigation is still in progress.",
+      "scope_notes": "Applies to OPEN, ONGOING, and UNRESOLVED criminal investigations involving LESS SERIOUS offenses — burglary, larceny, drug/narcotics, extortion, identity theft, fraud, arson, vandalism. Case must be UNRESOLVED/ACTIVE/OPEN. For resolved less-serious cases use 200146. For serious unresolved felonies use 200145.",
+      "key_criteria": [
+        "burglary unresolved",
+        "larceny active",
+        "drug offense active",
+        "identity theft unresolved",
+        "fraud unresolved",
+        "arson unresolved",
+        "case active",
+        "active investigation",
+        "open investigation",
+        "ongoing investigation",
+        "unresolved case",
+        "less serious unresolved"
+      ],
+      "exclusions": [
+        "200146",
+        "200145",
+        "100771",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000266",
+      "series_title": "Investigative Case Files: Non-Serious Offenses - Resolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: blackmail, bribery, counterfeiting, curfew, destruction of property, disorderly conduct, drug/narcotic offenses, DUI, embezzlement, extortion, forgery, fraud, gambling, identity theft, intimidation, larceny, loitering, peeping tom, pornography, prostitution, runaway, simple assault, thefts, trespassing, vagrancy, vandalism, arson and weapons law violations. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non- weapon) Property, City-wide/In-car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "10 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Non-Serious Offenses - Resolved (Series 000266): This series documents CLOSED and RESOLVED criminal investigations involving minor or non-serious offenses. Case status: CLOSED - RESOLVED. Retention: 10 years after closed. Offense types (non-serious/minor): blackmail, bribery, counterfeiting, curfew violations, disorderly conduct, DUI, embezzlement, forgery, fraud, gambling, identity theft, loitering, peeping tom, prostitution, runaway, simple assault, trespassing, vagrancy, vandalism, minor thefts. Records include: incident report, resolved case summary, misdemeanor disposition, arrest record, court summons, fine payment, probation records. Short retention (10 years) distinguishes this as a minor/non-serious resolved category.",
+      "scope_notes": "Applies to CLOSED and RESOLVED criminal investigations involving NON-SERIOUS / MINOR offenses — misdemeanor, DUI, disorderly conduct, trespassing, loitering, petty larceny. Case must be RESOLVED/CLOSED. Retention is 10 years. For unresolved non-serious cases use 200148. For less-serious resolved cases use 200146.",
+      "key_criteria": [
+        "misdemeanor",
+        "disorderly conduct",
+        "DUI resolved",
+        "DWI resolved",
+        "driving under the influence resolved",
+        "trespassing resolved",
+        "loitering resolved",
+        "vagrancy resolved",
+        "petty larceny resolved",
+        "simple assault resolved",
+        "curfew violation resolved",
+        "non-serious resolved",
+        "minor offense resolved"
+      ],
+      "exclusions": [
+        "200148",
+        "200146",
+        "200147",
+        "100771",
+        "200145"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200148",
+      "series_title": "Investigative Case Files: Non-Serious Offenses - Unresolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: blackmail, bribery, counterfeiting, curfew, destruction of property, disorderly conduct, drug/narcotic offenses, DUI, embezzlement, extortion, forgery, fraud, gambling, identity theft, intimidation, larceny, loitering, peeping tom, pornography, prostitution, runaway, simple assault, thefts, trespassing, vagrancy, vandalism, arson and weapons law violations. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non- weapon) Property, City-wide/In-car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "5 Years after creation",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Non-Serious Offenses - Unresolved (Series 200148): This series documents OPEN, ONGOING, and UNRESOLVED investigations into minor or non-serious criminal offenses. Case status: UNRESOLVED - OPEN - ACTIVE. Retention: 5 years after creation (shortest retention of all investigative file series). Offense types (non-serious/minor): blackmail, bribery, counterfeiting, curfew violations, disorderly conduct, DUI, embezzlement, forgery, fraud, loitering, simple assault, trespassing, vagrancy. Records include: open incident report, field notes, ongoing inquiry, summons, VCIN entries. Short 5-year retention indicates minor offense with active but brief investigation window.",
+      "scope_notes": "Applies to OPEN, ONGOING, and UNRESOLVED investigations into NON-SERIOUS / MINOR offenses — misdemeanor, DUI, disorderly conduct, trespassing, loitering. Case must be UNRESOLVED/ACTIVE. Retention is only 5 years. For resolved non-serious cases use 000266. For unresolved less-serious cases use 200147.",
+      "key_criteria": [
+        "misdemeanor unresolved",
+        "DUI unresolved",
+        "DWI active",
+        "disorderly conduct open",
+        "trespassing active",
+        "loitering open",
+        "vagrancy active",
+        "simple assault open",
+        "non-serious unresolved",
+        "minor offense open"
+      ],
+      "exclusions": [
+        "000266",
+        "200147",
+        "200146",
+        "200145",
+        "100771"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100771",
+      "series_title": "Investigative Case Files: Serious Offenses - Resolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: homicide, murder, manslaughter, kidnapping, abduction, arson, robbery, aggravated assault, sex crimes, rape, incest, or crimes against children. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non-weapon) Property, City-wide/In- car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "75 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Serious Offenses - Resolved (Series 100771): This series documents completed, closed criminal investigations involving serious felony offenses where the case has been resolved — including guilty pleas, convictions, acquittals, or case closure. Serious offenses covered: homicide, murder, manslaughter, kidnapping, abduction, aggravated assault, armed robbery, sex crimes, rape, incest, crimes against children. Retention: 75 years after closed (long-term due to severity). Case status: CLOSED - RESOLVED. Records include: detective case files, suspect information, victim information, evidence logs, surveillance footage, DNA samples, fingerprint analysis (latent prints), weapon recovery reports, witness statements, investigation timeline, arrest warrant, preliminary hearing, sentencing (incarceration). This series covers the most serious violent felony crimes with the longest retention period among investigative case file series.",
+      "scope_notes": "Applies to CLOSED and RESOLVED criminal investigations involving SERIOUS violent felony offenses — homicide, murder, manslaughter, kidnapping, abduction, aggravated assault, armed robbery, rape, sex crimes, crimes against children. Case must be RESOLVED/CLOSED. Retention is 75 years. For unresolved serious offenses use 200145.",
+      "key_criteria": [
+        "homicide",
+        "murder",
+        "manslaughter",
+        "kidnapping",
+        "abduction",
+        "aggravated assault",
+        "armed robbery",
+        "rape",
+        "sex crime",
+        "sexual assault",
+        "crimes against children",
+        "serious offense resolved",
+        "felony resolved",
+        "convicted homicide",
+        "murder conviction"
+      ],
+      "exclusions": [
+        "200145",
+        "200146",
+        "200147",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200145",
+      "series_title": "Investigative Case Files: Serious Offenses - Unresolved",
+      "series_description": "This series documents the processes and results of any systematic investigations, inquiries, or examinations into criminal or suspected criminal acts that have been committed, are being committed, or are about to be committed; and may be related to, but not limited to: homicide, murder, manslaughter, kidnapping, abduction, arson, robbery, aggravated assault, sex crimes, rape, incest, or crimes against children. This series may include, but is not limited to records pertaining to: Breath Alcohol, Confiscated (non-weapon) Property, City-wide/In- car Surveillance/ Monitoring Recordings, Controlled Substance Seizures, Dispatch/ Communications Recordings, Emergency Calls, Evidence (including receipts and requests for), Field Notes, Fingerprints (including latents), Incident Reports, Lab Requests/ Reports/ Certificates of Analysis, Photographs, Polygraphs, Release (Waiver) Forms, Summonses, and Virginia Criminal Information Network/ National Crime Information Center (VCIN/NCIC) entries.",
+      "series_retention_period": "100 Years after creation",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Investigative Case Files: Serious Offenses - Unresolved (Series 200145): This series documents OPEN, ONGOING, and UNRESOLVED investigations into the most serious violent felony crimes. Case status: UNRESOLVED - OPEN - ACTIVE - UNSOLVED. Retention: 100 years after creation (longest retention of all investigative file series — reflects severity and ongoing nature). Serious offense types: homicide, murder, manslaughter, kidnapping, abduction, aggravated assault, sex crimes, rape, incest, crimes against children, armed robbery. Records include: active homicide investigation, cold case files, ongoing evidence, DNA evidence pending analysis, latent fingerprints, unsolved murder file, missing suspect, open felony warrant. This series is for the most serious crimes where the case remains open and unsolved.",
+      "scope_notes": "Applies to OPEN, ONGOING, and UNRESOLVED investigations into the most SERIOUS violent felony offenses — unsolved homicides, cold case murders, unresolved kidnappings, unresolved sex crimes. Case must be UNRESOLVED/ACTIVE/UNSOLVED. Retention is 100 years. For resolved serious offenses use 100771.",
+      "key_criteria": [
+        "homicide unresolved",
+        "unsolved murder",
+        "cold case homicide",
+        "murder open",
+        "unsolved homicide",
+        "kidnapping unresolved",
+        "rape unresolved",
+        "sex crime unresolved",
+        "serious offense unresolved",
+        "cold case",
+        "suspect at large",
+        "active homicide"
+      ],
+      "exclusions": [
+        "100771",
+        "200146",
+        "200147",
+        "000266",
+        "200148"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100775",
+      "series_title": "K-9/Horse Management Records",
+      "series_description": "This series documents the management of dogs (K-9s) and horses in the service of law enforcement. This series may include, but is not limited to history, status, health, and training records.",
+      "series_retention_period": "3 Years after separation",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "K-9/Horse Management Records (Series 100775): This series documents the management, health, and training of POLICE DOGS (K-9 units) and POLICE HORSES used in law enforcement. Retention: 3 years after separation from service. Records include: K-9 service history, handler assignment, health and veterinary records, training records, certification, deployment logs, horse management records. Distinct from all other GS-17 series — unique to animal-assisted law enforcement.",
+      "scope_notes": "Applies to police dogs (K-9 units) and police horses used in law enforcement — health, training, handler assignment records.",
+      "key_criteria": [
+        "K-9",
+        "police dog",
+        "police horse",
+        "K9",
+        "K-9 unit",
+        "handler assignment",
+        "canine",
+        "K-9 training",
+        "K-9 health",
+        "equine law enforcement"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200186",
+      "series_title": "License Plate Tag Reader Records: Not Used as Evidence",
+      "series_description": "This series documents the surveillance and recording of license plate tag numbers. This series may include, but is not limited to: video recordings, digital images and photographs.",
+      "series_retention_period": "0 Years after decision",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "License Plate Tag Reader Records: Not Used as Evidence (Series 200186): This series documents AUTOMATED LICENSE PLATE READER (ALPR/LPR) surveillance recordings that are NOT used as evidence in any case. Retention: 0 years after decision not to use (immediate destruction). Records include: license plate tag reader scans, digital photographs of license plates, vehicle location data — retained only until decision made not to use as evidence, then immediately destroyed.",
+      "scope_notes": "Applies to Automated License Plate Reader (ALPR/LPR) surveillance data NOT used as evidence — destroyed immediately after decision not to use.",
+      "key_criteria": [
+        "license plate reader",
+        "ALPR",
+        "LPR",
+        "automated license plate",
+        "license plate surveillance",
+        "tag reader",
+        "license plate scan"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005666",
+      "series_title": "Logs",
+      "series_description": "This series consists of key-control and all other law enforcement logs not listed elsewhere on this schedule.",
+      "series_retention_period": "2 Years after closed",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Logs (Series 005666): This series consists of ALL law enforcement logs not specifically listed elsewhere in the GS-17 schedule. Covers general operational logs including key-control logs, equipment sign-out logs, shift logs, visitor logs, and any other miscellaneous law enforcement log or register not captured by another series. Retention: 2 years after closed. This is a catch-all log series for miscellaneous law enforcement logging activities not covered by more specific series on this schedule.",
+      "scope_notes": "Catch-all series for general law enforcement logs NOT covered by any other specific series on GS-17. Only use if no more specific series applies.",
+      "key_criteria": [
+        "key control log",
+        "general log",
+        "equipment sign-out",
+        "shift log",
+        "visitor log",
+        "miscellaneous log",
+        "general law enforcement log"
+      ],
+      "exclusions": [
+        "100718",
+        "100802",
+        "200164"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200149",
+      "series_title": "Master Name File",
+      "series_description": "This series documents legal names and aliases used by a suspected or convicted law breaker. This series may include, but is not limited to: AKAs (Also Known As), nicknames, last known and previous addresses, as well as alternate birth dates, social security numbers, and other identifiers.",
+      "series_retention_period": "100 Years after birth",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Master Name File (Series 200149): This series documents legal names and ALL ALIASES (AKAs) used by suspected or convicted offenders. Retention: 100 years after birth. Records include: legal name, all known aliases and nicknames, last known address, previous addresses, alternate dates of birth, alternate social security numbers, alternate identifiers, associated criminal records cross-reference. An intelligence/identification index — not individual arrest or case files.",
+      "scope_notes": "Applies to a cross-reference index of legal names, aliases (AKAs), and alternate identifiers for suspected or convicted offenders. Intelligence/identification index — not individual arrest or case files.",
+      "key_criteria": [
+        "AKA",
+        "alias",
+        "master name file",
+        "also known as",
+        "nickname",
+        "alternate name",
+        "alternate identifier",
+        "name index",
+        "alternate date of birth",
+        "alternate SSN"
+      ],
+      "exclusions": [
+        "100713",
+        "100714"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100780",
+      "series_title": "Missing Persons Files",
+      "series_description": "This series documents the receipt of notification of missing persons and runaways, and actions taken in response by law enforcement. This series may include, but is not limited to: initial report, photographs, witness statements, and investigative records.",
+      "series_retention_period": "75 Years after creation",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Missing Persons Files (Series 100780): This series documents ACTIVE, ONGOING missing persons cases and runaways that remain UNRESOLVED or open. Retention: 75 years after creation (long retention for unresolved/active cases). Records include: missing person report, initial notification, subject photographs, physical description, witness statements, investigative notes, VCIN/NCIC missing person entry, law enforcement response actions, search and rescue coordination. This covers cases that are still open or where resolution status is not yet confirmed.",
+      "scope_notes": "Applies ONLY to ACTIVE and UNRESOLVED missing persons cases — the person has not been found. ONLY use for cases where a HUMAN BEING is missing — NEVER for missing objects or stolen property. For RESOLVED single-incident cases use 100779. For RESOLVED cases with prior repeat history use 100755.",
+      "key_criteria": [
+        "missing person",
+        "missing persons",
+        "runaway",
+        "person last seen",
+        "reported missing",
+        "still missing",
+        "person still missing",
+        "active missing",
+        "NCIC missing person entry",
+        "missing juvenile",
+        "missing adult",
+        "unresolved missing"
+      ],
+      "exclusions": [
+        "100779",
+        "100755"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100779",
+      "series_title": "Missing Persons: Resolved",
+      "series_description": "This series documents the receipt of notification of missing persons and runaways, and actions taken in response by law enforcement. This series may include, but is not limited to: initial report, photographs, witness statements, and investigative records.",
+      "series_retention_period": "1 Year after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Missing Persons: Resolved (Series 100779): This series documents the receipt of notification of missing persons and runaways, and actions taken in response by law enforcement, where the individual has been located and the case is closed and resolved. Retention: 1 Year after closed. Records may include: initial report, subject photographs, witness statements, investigative records, notification to family/guardians, confirmation that missing person or runaway was found safe, and case closure notes. Case status: CLOSED - RESOLVED. Distinguished by 1-year retention after case closure.",
+      "scope_notes": "Applies ONLY to SINGLE-INCIDENT missing persons cases that have been RESOLVED — the person was LOCATED or FOUND. Retention is 1 year after closure. Distinct from 100780 (unresolved/open) and 100755 (resolved with prior repeat/chronic history).",
+      "key_criteria": [
+        "missing person resolved",
+        "person located",
+        "person found",
+        "found safe",
+        "missing person closed",
+        "runaway located",
+        "runaway found",
+        "missing person returned"
+      ],
+      "exclusions": [
+        "100780",
+        "100755"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100755",
+      "series_title": "Missing Persons: With History - Resolved",
+      "series_description": "This series documents the receipt of and actions taken in response to repeated notifications of a particular missing person or runaway, and the location(s) where missing person was previously found. This series may include, but is not limited to: initial report, photographs, witness statements, and investigative records.",
+      "series_retention_period": "5 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Missing Persons: With History - Resolved (Series 100755): This series documents the receipt of and actions taken in response to repeated notifications of a particular missing person or runaway, and the location(s) where the missing person was previously found, with the case closed and resolved. Retention: 5 Years after closed. Records may include: repeated missing person reports, initial report, photographs, witness statements, investigative records, history of prior missing/runaway incidents, previous recovery locations, and resolution confirmation. Case status: CLOSED - RESOLVED WITH REPEAT HISTORY. Distinguished by 5-year retention after closed for individuals with multiple prior missing reports.",
+      "scope_notes": "Applies to RESOLVED missing persons cases where the individual has a HISTORY of PRIOR missing incidents — chronic runaways who have now been located. Retention is 5 years after closure. The defining feature is the documented history of prior missing incidents.",
+      "key_criteria": [
+        "chronic runaway",
+        "repeat runaway",
+        "prior missing incidents",
+        "previous missing episodes",
+        "missing with history",
+        "prior runaway history",
+        "multiple missing incidents",
+        "history of missing",
+        "repeat missing person"
+      ],
+      "exclusions": [
+        "100780",
+        "100779"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100783",
+      "series_title": "Parking Tickets",
+      "series_description": "This series documents the issuance of a citation and fine for violating parking regulations. This series may include, but is not limited to: parking tickets.",
+      "series_retention_period": "3 Years after issuance",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Parking Tickets (Series 100783): This series documents PARKING CITATIONS issued for parking regulation violations. Retention: 3 years after issuance. Records include: parking ticket/citation, vehicle license plate, location of violation, parking regulation violated, fine amount, payment or non-payment status, hearing request. Strictly administrative civil citation — distinct from criminal charges or traffic accident reports.",
+      "scope_notes": "Applies to parking citations only — administrative civil citations for parking regulation violations. Not criminal charges or traffic accident reports.",
+      "key_criteria": [
+        "parking ticket",
+        "parking citation",
+        "parking violation",
+        "parking fine",
+        "parking meter",
+        "illegal parking"
+      ],
+      "exclusions": [
+        "100791",
+        "100806"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100785",
+      "series_title": "Pawnshop and Precious Metals Dealers: History Files",
+      "series_description": "This series documents the location and licensing of pawnshops and precious metals dealers. This series may include, but is not limited to: application, fingerprints, and photos.",
+      "series_retention_period": "0 Years after superseded, obsolete, or rescinded",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Pawnshop and Precious Metals Dealers: History Files (Series 100785): This series documents the LOCATION, LICENSING, and HISTORY of pawnshops and precious metals dealers registered with law enforcement. Retention: until superseded or obsolete. Records include: pawnshop registration application, owner fingerprints, owner photographs, business license, location information, permit history. Distinct from Pawnshop Reports (005667) which covers transaction-level reporting of pawned items.",
+      "scope_notes": "Applies to the business licensing and registration history of pawnshops and precious metals dealers — the registration record, not individual transactions. Distinct from Pawnshop Reports (005667) which covers item-level transaction reports.",
+      "key_criteria": [
+        "pawnshop license",
+        "pawnshop registration",
+        "pawnshop permit",
+        "precious metals dealer license",
+        "pawnshop history",
+        "pawnshop owner fingerprints",
+        "pawnshop application"
+      ],
+      "exclusions": [
+        "005667"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005667",
+      "series_title": "Pawnshop and Precious Metals Dealers: Reports",
+      "series_description": "This series documents the submission of item description, serial number, value, and seller ID data related to items pawned and sold, as required by local ordinance. This series may include, but is not limited to: reports.",
+      "series_retention_period": "3 Years after submission",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Pawnshop and Precious Metals Dealers: Reports (Series 005667): This series documents TRANSACTION-LEVEL REPORTS submitted by pawnshops and precious metals dealers as required by local ordinance — item descriptions, serial numbers, seller identity data. Retention: 3 years after submission. Records include: pawn transaction reports, item description, serial number, estimated value, seller identification, transaction date. Distinct from Pawnshop History Files (100785) which covers business licensing — these are item-level transaction records used to track stolen property.",
+      "scope_notes": "Applies to TRANSACTION-LEVEL item reports submitted by pawnshops as required by local ordinance — individual items pawned, serial numbers, seller identity. Used to track stolen property. Distinct from Pawnshop History Files (100785) which covers business licensing.",
+      "key_criteria": [
+        "pawnshop transaction",
+        "pawn ticket",
+        "item pawned",
+        "pawn report",
+        "pawnshop daily report",
+        "articles pledged",
+        "pawned item",
+        "serial number report pawnshop",
+        "pawnshop item description"
+      ],
+      "exclusions": [
+        "100785"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005668",
+      "series_title": "Permit Review and Investigation Files",
+      "series_description": "This series documents the request for and the results of an investigation of permit applicants, not otherwise listed on this schedule. This series may include, but is not limited to: investigation notes and final report.",
+      "series_retention_period": "3 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Permit Review and Investigation Files (Series 005668): This series documents law enforcement INVESTIGATION OF PERMIT APPLICANTS for permits not listed elsewhere on this schedule. Retention: 3 years after closed. Records include: permit application, investigation notes, background check results, final investigation report, permit approval or denial. A general-purpose permit investigation series — distinct from specific permit types (ABC, Concealed Handgun, Operational Permits).",
+      "scope_notes": "Applies to permit applicant investigations NOT covered by a more specific series on GS-17. General-purpose permit investigation catch-all.",
+      "key_criteria": [
+        "permit review",
+        "permit investigation",
+        "permit applicant",
+        "permit background",
+        "permit investigation file"
+      ],
+      "exclusions": [
+        "100708",
+        "100727",
+        "007103",
+        "100786"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007103",
+      "series_title": "Permits: Operational",
+      "series_description": "This series documents the issuance of permits to allow bonfires, the use explosives, fireworks, fumigation, and tents at functions. This series may include, but is not limited to: application, approved permit, and supporting documentation.",
+      "series_retention_period": "2 Years after expiration",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Permits: Operational (Series 007103): This series documents permits issued by fire/emergency services for OPERATIONAL ACTIVITIES including bonfires, explosives use, fireworks displays, fumigation operations, and temporary tents at public events. Retention: 2 years after expiration. Records include: permit application, approved operational permit, event details, safety inspection, supporting documentation. Fire and emergency services operational permit — distinct from law enforcement parade permits (100786).",
+      "scope_notes": "Applies to fire/emergency services operational permits for bonfires, explosives, fireworks, fumigation, and tents. Distinct from law enforcement parade permits (100786).",
+      "key_criteria": [
+        "operational permit",
+        "bonfire permit",
+        "explosives permit",
+        "fireworks permit",
+        "fumigation permit",
+        "tent permit",
+        "special event permit fire"
+      ],
+      "exclusions": [
+        "100786",
+        "005668"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100786",
+      "series_title": "Permits: Parade",
+      "series_description": "This series documents the permitting of parades, parade routes, and related traffic control activities. This series may include, but is not limited to: application, supporting documentation, and letter of approval/denial.",
+      "series_retention_period": "6 Months after expiration",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Permits: Parade (Series 100786): This series documents permits for PARADES, parade routes, and associated traffic control. Retention: 6 months after expiration. Records include: parade permit application, proposed route, approval/denial letter, traffic control plan, supporting documentation, event sponsor information. Law enforcement permit for public procession events — distinct from fire department operational permits (007103).",
+      "scope_notes": "Applies to law enforcement parade permits — parade routes, associated traffic control. Retention only 6 months. Distinct from fire department operational permits (007103).",
+      "key_criteria": [
+        "parade permit",
+        "parade route",
+        "parade application",
+        "procession permit",
+        "march permit",
+        "parade traffic control"
+      ],
+      "exclusions": [
+        "007103",
+        "005668"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100791",
+      "series_title": "Photographs and Evidence: Traffic Tickets",
+      "series_description": "This series documents the collection evidence of traffic violations (not including automatic cameras at intersections). This series may include, but is not limited to: photographs and audio/visual recordings.",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Photographs and Evidence: Traffic Tickets (Series 100791): This series documents PHOTOGRAPHIC EVIDENCE collected for TRAFFIC VIOLATIONS (speed, signal violations — not intersection cameras). Retention: 1 year after last action. Records include: photographs of violation, dash camera recordings, speed measurement evidence, traffic citation supporting photographs — not used for accident reconstruction. Distinguished from Traffic Accident reports and red-light camera series by focus on standalone moving violation documentation.",
+      "scope_notes": "Applies to photographic and audio/visual evidence for traffic violation citations — speed, signal violations. NOT red-light intersection cameras. Distinct from red-light camera series and accident reports.",
+      "key_criteria": [
+        "traffic violation photo",
+        "traffic ticket evidence",
+        "speed enforcement photo",
+        "traffic citation photo",
+        "dash camera traffic violation",
+        "traffic ticket photograph"
+      ],
+      "exclusions": [
+        "200151",
+        "200152",
+        "100781",
+        "005670"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "007046",
+      "series_title": "Pre-hospital Patient Care Reports",
+      "series_description": "This series documents medical care provided by emergency services personnel and is used to summarize the facts and events of an emergency medical incident and any treatment provided. This series may include, but is not limited to: reports and related supplements or addenda. 12VAC5-31-530; 12VAC5-31-1140",
+      "series_retention_period": "6 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Pre-hospital Patient Care Reports (Series 007046): This series documents EMERGENCY MEDICAL CARE provided by EMS/paramedic personnel before hospital arrival. 12VAC5-31-530. Retention: 6 years after event. Records include: pre-hospital patient care report (PCR), EMS run report, patient presenting condition, vital signs, treatment administered, medications given, transport hospital, paramedic unit, crew members, patient name, age, medical history. Distinct from Fire & Rescue Incident Reports (007037) — specifically covers the medical/patient care component of emergency response.",
+      "scope_notes": "Applies ONLY to EMS/paramedic pre-hospital patient care reports — vital signs, treatments, medications given, patient condition. 12VAC5-31-530. Distinct from Fire and Rescue Incident Reports (007037). Key test: if it documents medical care and patient condition, it is 007046; if it is a fire suppression report, it is 007037.",
+      "key_criteria": [
+        "pre-hospital patient care",
+        "patient care report",
+        "PCR",
+        "EMS report",
+        "paramedic report",
+        "vital signs",
+        "EMS run report",
+        "paramedic treatment",
+        "12VAC5-31-530",
+        "EMS patient",
+        "ambulance report",
+        "emergency medical",
+        "patient care"
+      ],
+      "exclusions": [
+        "007037",
+        "007043",
+        "007100"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100796",
+      "series_title": "Recording, Surveillance, or Monitoring Systems: Not Used as Evidence",
+      "series_description": "This series documents the surveillance of an area and the actions of law enforcement officers, suspects, and bystanders, including in-car monitoring of officers. This series may include, but is not limited to: audio and video recordings.",
+      "series_retention_period": "30 Days after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Recording, Surveillance, or Monitoring Systems: Not Used as Evidence (Series 100796): This series documents general law enforcement surveillance recordings NOT used as evidence. Retention: 30 days after event. Records: dash camera, body camera, in-car surveillance recordings of officers/suspects/bystanders — where footage has no evidentiary value. Short 30-day routine retention.",
+      "scope_notes": "Applies to general law enforcement surveillance recordings NOT used as evidence — dash camera, body camera, in-car recordings. Retention is 30 days. Distinct from locality-wide cameras (000187, 7-day retention) and traffic light cameras (200151, 2-day retention).",
+      "key_criteria": [
+        "surveillance recording",
+        "dash camera not evidence",
+        "body camera not evidence",
+        "in-car recording",
+        "monitoring not evidence",
+        "surveillance footage not used",
+        "not used as evidence"
+      ],
+      "exclusions": [
+        "200152",
+        "000187",
+        "200151"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000187",
+      "series_title": "Recording, Surveillance, or Monitoring Systems: Locality-Wide - Not used as evidence",
+      "series_description": "This series documents the surveillance of large areas of a locality, other than traffic corridors, using cameras mounted at fixed locations.",
+      "series_retention_period": "7 Days after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Recording, Surveillance, or Monitoring Systems: Locality-Wide - Not used as evidence (Series 000187): This series documents fixed-location CITY-WIDE or LOCALITY-WIDE surveillance camera recordings NOT used as evidence. Retention: 7 days after event (extremely short — 7-day overwrite cycle). Records include: fixed-mount surveillance cameras covering large public areas, neighborhoods, or districts (not traffic corridors). Distinguished from other surveillance series by the locality-wide/area-wide fixed camera scope and extremely short 7-day retention.",
+      "scope_notes": "Applies to fixed-location city-wide or locality-wide surveillance cameras NOT in traffic corridors. Retention is only 7 days. Not used as evidence.",
+      "key_criteria": [
+        "locality-wide surveillance",
+        "area surveillance",
+        "fixed camera surveillance",
+        "public area camera",
+        "neighborhood surveillance camera",
+        "city-wide camera",
+        "fixed location camera not evidence"
+      ],
+      "exclusions": [
+        "100796",
+        "200151",
+        "200152"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200151",
+      "series_title": "Recording, Surveillance, or Monitoring Systems: Traffic Light Signals - Not used as evidence",
+      "series_description": "This series documents the failure of motorists to comply with traffic light signals (red lights), but the decision is made not to issue a summons. This series may include, but is not limited to: photographs and video recordings. COV 15.2-968.1 (H)",
+      "series_retention_period": "2 Days after decision",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Recording, Surveillance, or Monitoring Systems: Traffic Light Signals - Not used as evidence (Series 200151): This series documents the failure of motorists to comply with traffic light signals (red lights), but the decision is made not to issue a summons. COV 15.2-968.1 (H). Retention: 2 Days after decision. Records may include: automated traffic light camera photographs and video recordings of red light violations where law enforcement determined not to issue a citation, summons, or civil penalty. Non-evidentiary recording discarded after 2 days.",
+      "scope_notes": "Applies ONLY to automated traffic light/red-light camera recordings where the decision was made NOT to issue a citation or summons. COV 15.2-968.1(H). Retention only 2 days. Distinct from 200152 (citation issued) and 100796 (general surveillance).",
+      "key_criteria": [
+        "red light camera not used",
+        "traffic light camera not cited",
+        "traffic signal not summons",
+        "red light no citation",
+        "traffic light not evidence",
+        "COV 15.2-968.1",
+        "no summons issued",
+        "traffic light signal no penalty"
+      ],
+      "exclusions": [
+        "200152",
+        "100796",
+        "000187"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200152",
+      "series_title": "Recording, Surveillance, or Monitoring Systems: Traffic Light Signals - Used as evidence",
+      "series_description": "This series documents the failure of motorists to comply with traffic light signals (red lights) and the collection of civil penalty payments. This series may include, but is not limited to: photographs and video recordings. COV 15.2-968.1 (H)",
+      "series_retention_period": "60 Days after final payment",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Recording, Surveillance, or Monitoring Systems: Traffic Light Signals - Used as evidence (Series 200152): This series documents RED LIGHT CAMERA recordings USED AS EVIDENCE for issuing citations and collecting civil penalties. Retention: 60 days after final payment. Records include: automated traffic enforcement camera photographs, red light violation video footage, license plate capture, citation issued, civil penalty, payment records. Distinguished from the non-evidence traffic light series (200151) by the use as evidence and the payment/civil penalty outcome.",
+      "scope_notes": "Applies to red-light camera recordings USED AS EVIDENCE — a citation or civil penalty was issued. COV 15.2-968.1(H). Retention is 60 days after final payment. Distinct from 200151 (no citation issued).",
+      "key_criteria": [
+        "red light camera used as evidence",
+        "traffic light citation",
+        "red light summons issued",
+        "civil penalty traffic light",
+        "traffic signal citation",
+        "red light violation citation",
+        "used as evidence",
+        "citation issued",
+        "summons issued",
+        "court exhibit"
+      ],
+      "exclusions": [
+        "200151",
+        "100796",
+        "000187"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100800",
+      "series_title": "Reports: No Investigative Value",
+      "series_description": "This series documents non-criminal incidents and occurrences such as accidental deaths, suicides, lost and found property, and other occurrences that have been determined not to require further investigation. This series may include, but is not limited to: incident reports, tracking records, property receipts, and investigative files. 28CFR23.20(h); COV 15.2-1722",
+      "series_retention_period": "5 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Reports: No Investigative Value (Series 100800): This series documents NON-CRIMINAL incidents determined NOT to require further investigation. COV 15.2-1722. Retention: 5 years after closed. Records include: accidental death report, suicide report, lost and found property report, non-criminal occurrence report, incident report closed without investigation. Distinguished from investigative case files by the explicit determination that no criminal investigation is warranted.",
+      "scope_notes": "Applies to non-criminal occurrences determined NOT to require further investigation. NEVER use for investigations with suspects, evidence, or criminal charges. Lost-and-found items and accidental deaths with no criminal investigation belong here.",
+      "key_criteria": [
+        "no investigative value",
+        "accidental death",
+        "lost property",
+        "found property",
+        "lost and found",
+        "non-criminal incident",
+        "no further investigation",
+        "abandoned property",
+        "non-criminal occurrence",
+        "COV 15.2-1722"
+      ],
+      "exclusions": [
+        "100780",
+        "100779",
+        "100755",
+        "200146",
+        "200147",
+        "000266",
+        "200148",
+        "100771",
+        "200145"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100781",
+      "series_title": "Reports: Traffic Accident/Crash - Citizen",
+      "series_description": "This series documents the investigation into and reporting of motor vehicle accidents/crashes that involve non-law enforcement vehicles. This series may include, but is not limited to: notes, reports, photographs, evidence, and other supporting documentation.",
+      "series_retention_period": "3 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Reports: Traffic Accident/Crash - Citizen (Series 100781): This series documents motor vehicle accidents and crashes involving NON-LAW-ENFORCEMENT civilian vehicles and citizen drivers. Retention: 3 years after event. Records include: traffic accident report, crash report form, citizen driver information, vehicle damage assessment, VIN, insurance information, witness statements, scene photographs, contributing factors (failure to yield, inattention, speeding), citations issued (traffic code violations), EMS response, estimated property damage, injury report. Distinguished from law enforcement vehicle crashes by civilian/citizen vehicle involvement.",
+      "scope_notes": "Applies to motor vehicle accidents involving CIVILIAN or CITIZEN vehicles — not law enforcement vehicles. Distinct from Law Enforcement crash reports (005670).",
+      "key_criteria": [
+        "traffic accident citizen",
+        "crash report",
+        "civilian vehicle crash",
+        "citizen vehicle accident",
+        "traffic accident report",
+        "driver 1",
+        "passenger car crash",
+        "civilian crash",
+        "motor vehicle accident civilian",
+        "vehicle collision"
+      ],
+      "exclusions": [
+        "005670"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005670",
+      "series_title": "Reports: Traffic Accident/Crash - Law Enforcement",
+      "series_description": "This series documents the investigation into and reporting of motor vehicle accidents/crashes that involve law enforcement vehicles. This series may include, but is not limited to: notes, reports, photographs, evidence, and other supporting documentation.",
+      "series_retention_period": "3 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Reports: Traffic Accident/Crash - Law Enforcement (Series 005670): This series documents motor vehicle accidents and crashes involving LAW ENFORCEMENT VEHICLES (police cars, sheriff vehicles, patrol units). Retention: 3 years after closed. Records include: law enforcement vehicle crash report, officer/deputy involved, patrol unit damage, department liability documentation, internal review, insurance claim, scene photographs. Distinguished from citizen traffic accident reports (100781) by the involvement of a law enforcement agency vehicle.",
+      "scope_notes": "Applies ONLY to accidents involving a LAW ENFORCEMENT VEHICLE — police cruiser, patrol car, sheriff vehicle. Distinct from citizen traffic crashes (100781).",
+      "key_criteria": [
+        "law enforcement vehicle crash",
+        "police vehicle accident",
+        "patrol car crash",
+        "officer involved accident",
+        "police cruiser crash",
+        "sheriff vehicle crash",
+        "law enforcement crash",
+        "department vehicle damage"
+      ],
+      "exclusions": [
+        "100781"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100802",
+      "series_title": "Roll Call Files",
+      "series_description": "This series documents officer attendance at meetings, briefings, inspections and other law enforcement activities, as well as any training received at these meetings. This series may include, but is not limited to: logs, rolls, rosters, and registers.",
+      "series_retention_period": "1 Year after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Roll Call Files (Series 100802): This series documents officer ATTENDANCE at roll call meetings, briefings, inspections, and other law enforcement gatherings, including any training provided at those meetings. Retention: 1 year after event. Records include: roll call log, officer attendance roster, briefing notes, training topics covered at roll call, inspection records. Distinct from Duty Rosters (100745) which is the assignment schedule — this documents actual attendance at roll calls.",
+      "scope_notes": "Applies to officer attendance at roll call meetings and briefings — actual presence at specific events. Distinct from Duty Rosters (100745) which is the assignment/scheduling record.",
+      "key_criteria": [
+        "roll call",
+        "roll call attendance",
+        "briefing attendance",
+        "officer attendance meeting",
+        "inspection attendance",
+        "roll call log",
+        "roll call roster"
+      ],
+      "exclusions": [
+        "100745"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200446",
+      "series_title": "Special Assignment Records",
+      "series_description": "This series documents assignments for activities such as dignitary visits, demonstrations, and other special events. This series may include, but is not limited to: operational and security plans, traffic control documentation, and logs.",
+      "series_retention_period": "2 Years after project completion",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Special Assignment Records (Series 200446): This series documents law enforcement assignments for SPECIAL EVENTS — dignitary visits, protests, demonstrations, large public events, and other extraordinary assignments. Retention: 2 years after project completion. Records include: operational plan, security plan, personnel assignment list, traffic control documentation, event logs, dignitary protection plan. Distinct from routine duty rosters — covers non-standard, event-specific deployments.",
+      "scope_notes": "Applies to special event deployments — dignitary protection, demonstrations, protests, large public events. Non-routine assignments with their own operational plans. Distinct from routine duty rosters.",
+      "key_criteria": [
+        "special assignment",
+        "dignitary visit",
+        "dignitary protection",
+        "demonstration assignment",
+        "special event deployment",
+        "security plan event",
+        "protest assignment",
+        "special deployment"
+      ],
+      "exclusions": [
+        "100745",
+        "100802"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100804",
+      "series_title": "Taxi Records",
+      "series_description": "This series documents the registration and/or permitting of taxi cabs and/or cab drivers. This series may include, but is not limited to: vehicle identification, rate cards, driver's identification, fingerprint cards, and driving records.",
+      "series_retention_period": "3 Years after expiration",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Taxi Records (Series 100804): This series documents the REGISTRATION AND PERMITTING of taxi cabs and cab drivers. Retention: 3 years after expiration. Records include: taxi permit application, vehicle identification (make, model, VIN), rate card, driver identification, driver fingerprint cards, driving record check, cab license. Regulatory compliance records for taxi industry oversight by law enforcement.",
+      "scope_notes": "Applies to taxi cab and driver registration/permitting records held by law enforcement. Regulatory compliance records for the taxi industry.",
+      "key_criteria": [
+        "taxi registration",
+        "taxi permit",
+        "cab driver permit",
+        "taxi cab registration",
+        "taxi license",
+        "cab driver fingerprint",
+        "taxi rate card"
+      ],
+      "exclusions": []
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100805",
+      "series_title": "Towed Vehicle Files",
+      "series_description": "This series documents law enforcement's actions in towing, or having towed, abandoned or damaged vehicles, vehicles involved in accidents or parking violations, and vehicles not in compliance with state or local laws. This series may include, but is not limited to: tow sheets.",
+      "series_retention_period": "3 Years after event",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Towed Vehicle Files (Series 100805): This series documents law enforcement's TOWING ACTIONS for abandoned/damaged vehicles, accident vehicles, and parking/compliance violations. Retention: 3 years after event. Records include: tow sheet, towing request, vehicle identification (plate, VIN, make), tow truck company used, reason for tow (abandoned, accident, parking violation, non-compliance), storage location, owner notification, disposition. Distinct from Abandoned/Impounded Vehicles (100812) and Towing Company Records (000347).",
+      "scope_notes": "Applies to the specific towing action — the event of law enforcement ordering or arranging a tow. Distinct from Abandoned/Impounded Vehicles (100812) which covers subsequent storage, and Towing Company Records (000347) which covers company registration.",
+      "key_criteria": [
+        "towed vehicle",
+        "tow sheet",
+        "towing action",
+        "vehicle tow",
+        "law enforcement tow",
+        "tow order",
+        "vehicle towed",
+        "tow request"
+      ],
+      "exclusions": [
+        "100812",
+        "000347"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "000347",
+      "series_title": "Towing Company Records",
+      "series_description": "This series documents the registration of tow and recovery operators. This series may include, but is not limited to: vehicle identification, rate cards, driver identification, fingerprint cards, Tow Truck Driver Authorization Document Registration, and driving records.",
+      "series_retention_period": "3 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Towing Company Records (Series 000347): This series documents the REGISTRATION OF TOWING COMPANIES AND OPERATORS authorized to work with law enforcement. Retention: 3 years after event. Records include: towing company registration, Tow Truck Driver Authorization Document, driver identification, vehicle identification, rate cards, fingerprint cards, driving records, insurance documentation. Business registration for tow operators — distinct from Towed Vehicle Files (100805) which documents individual tow events.",
+      "scope_notes": "Applies to the registration of towing companies and individual tow operators authorized to work with law enforcement. Business registration records. Distinct from tow event records (100805) and vehicle storage records (100812).",
+      "key_criteria": [
+        "towing company registration",
+        "tow company permit",
+        "tow truck driver authorization",
+        "tow operator registration",
+        "towing company record",
+        "tow truck authorization",
+        "towing company fingerprint"
+      ],
+      "exclusions": [
+        "100805",
+        "100812"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100806",
+      "series_title": "Traffic Management and Control",
+      "series_description": "This series documents information requested, compiled, and delivered for the investigation and resolution of traffic control problems. This series may include, but is not limited to: crash report and traffic safety check point statistics.",
+      "series_retention_period": "1 Year after last action",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Traffic Management and Control (Series 100806): This series documents TRAFFIC CONTROL ANALYSIS, problem reporting, and resolution — statistical and investigative traffic management. Retention: 1 year after last action. Records include: crash report statistics, traffic safety checkpoint data, traffic control problem analysis, speed zone studies, traffic count data, intersection analysis. Statistical/administrative traffic management records — distinct from individual accident reports or citations.",
+      "scope_notes": "Applies to statistical and analytical traffic management records — aggregate crash statistics, checkpoint data, traffic flow analysis. Not individual accident reports or citations.",
+      "key_criteria": [
+        "traffic management",
+        "traffic control",
+        "traffic statistics",
+        "checkpoint statistics",
+        "traffic safety checkpoint",
+        "traffic problem analysis",
+        "traffic count",
+        "speed zone study"
+      ],
+      "exclusions": [
+        "100781",
+        "005670",
+        "100783"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005673",
+      "series_title": "Virginia Criminal Information Network (VCIN/NCIC): Administrative Messages - Not part of an Investigative Case File",
+      "series_description": "This series documents the sending of messages to/through or receipt of messages from/through the Virginia Criminal Information Network (VCIN) or the National Crime Information Center (NCIC), and are not made part of an Investigative Case File. This series consists of, but is not limited to correspondence. 52-25",
+      "series_retention_period": "2 Years after end of calendar year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Virginia Criminal Information Network (VCIN/NCIC): Administrative Messages - Not part of an Investigative Case File (Series 005673): This series documents ADMINISTRATIVE MESSAGES sent to or received from VCIN or NCIC that are NOT incorporated into any investigative case file. Retention: 2 years after end of calendar year. Records include: VCIN/NCIC administrative correspondence, system notifications, database administrative messages, inter-agency communications through the network — standalone administrative messages only. Distinguished from VCIN/NCIC series that are part of case files, and from NCIC Validation Records (005675).",
+      "scope_notes": "Applies to standalone VCIN/NCIC administrative messages NOT incorporated into any case file. Distinct from NCIC Validation Records (005675) and entry printouts (005674).",
+      "key_criteria": [
+        "VCIN",
+        "NCIC",
+        "Virginia Criminal Information Network",
+        "VCIN administrative message",
+        "NCIC message",
+        "VCIN correspondence",
+        "NCIC administrative"
+      ],
+      "exclusions": [
+        "005675",
+        "005674"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005675",
+      "series_title": "Virginia Criminal Information Network (VCIN/NCIC): NCIC Validation Records",
+      "series_description": "This series documents the monthly verification of valid entries and the removal of outdated and/or invalid entries, per the State Police-communicated list of entries from the National Crime Information Center (NCIC) database. 28CFR20.37",
+      "series_retention_period": "2 Years after event",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Virginia Criminal Information Network (VCIN/NCIC): NCIC Validation Records (Series 005675): This series documents the monthly VALIDATION process — verifying active entries and removing outdated or invalid entries from the National Crime Information Center (NCIC) database per State Police requirements. Retention: 2 years after event. Records include: monthly NCIC validation reports, State Police validation list, entry verification records, removal of invalid/outdated NCIC entries, compliance documentation per 28CFR20.37. This is a database maintenance/audit series — not individual case records or messages.",
+      "scope_notes": "Applies to the monthly NCIC database validation process — verifying and purging entries. 28CFR20.37. Distinct from administrative messages (005673) and entry printouts (005674).",
+      "key_criteria": [
+        "NCIC validation",
+        "VCIN validation",
+        "monthly validation",
+        "entry verification",
+        "NCIC validation records",
+        "outdated entry removal",
+        "28CFR20.37",
+        "NCIC database maintenance"
+      ],
+      "exclusions": [
+        "005673",
+        "005674"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "005674",
+      "series_title": "Virginia Criminal Information Network (VCIN/NCIC): Original Entry Printouts or Worksheets - Not related to an Investigative Case File",
+      "series_description": "This series consists of original entry printouts or worksheets, if used, that exist solely to assist with data entry into the VCIN/NCIC system or to verify removal of entries from system. 52-25",
+      "series_retention_period": "0 Years after closed",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Virginia Criminal Information Network (VCIN/NCIC): Original Entry Printouts or Worksheets - Not related to an Investigative Case File (Series 005674): This series documents the WORKSHEETS and PRINTOUTS used during the DATA ENTRY process for entering or removing records from VCIN/NCIC — standalone documents not attached to any case file. Retention: 0 years after closed (immediate destruction after entry is complete). Records include: VCIN/NCIC data entry worksheets, system printouts used only for data verification, entry forms — retained only until data entry is confirmed, then destroyed immediately.",
+      "scope_notes": "Applies to working worksheets and printouts used ONLY during the VCIN/NCIC data entry process — destroyed immediately after entry confirmed. Distinct from administrative messages (005673) and validation records (005675).",
+      "key_criteria": [
+        "VCIN entry printout",
+        "NCIC entry worksheet",
+        "VCIN data entry",
+        "VCIN worksheet",
+        "VCIN printout",
+        "data entry verification printout"
+      ],
+      "exclusions": [
+        "005673",
+        "005675"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "200153",
+      "series_title": "Warrants: Unexecuted",
+      "series_description": "This series documents the criminal processes in the possession of a police or sheriff's department that have not been executed within, from date of issue, seven years if a felony warrant or three years if a misdemeanor warrant; or because they were issued for a now deceased person, issued based on mistaken identity, or issued as a result of technical or legal error; and have been ordered destroyed by the court. This series may include, but is not limited to: arrest warrants, summonses, capiases, and other unexecuted criminal processes. COV 19.2-76.1",
+      "series_retention_period": "0 Years after order",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Warrants: Unexecuted (Series 200153): This series documents UNEXECUTED CRIMINAL WARRANTS that have been ordered destroyed by the court. COV 19.2-76.1. Retention: 0 years after court destruction order (immediate). Records include: unexecuted arrest warrants, summonses, capiases — not served within 7 years (felony) or 3 years (misdemeanor), or issued for deceased persons, cases of mistaken identity, or technical/legal error. Distinguished from executed warrants in case files — these are voided/cancelled warrants ordered destroyed.",
+      "scope_notes": "Applies ONLY to unexecuted warrants court-ordered destroyed — expired, deceased subject, mistaken identity, or legal error. COV 19.2-76.1. Retention is 0 years — immediate destruction. Distinct from executed warrants in case files.",
+      "key_criteria": [
+        "unexecuted warrant",
+        "voided warrant",
+        "cancelled warrant",
+        "warrant destroyed",
+        "COV 19.2-76.1",
+        "expired warrant",
+        "warrant mistaken identity",
+        "warrant legal error"
+      ],
+      "exclusions": [
+        "200142"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100762",
+      "series_title": "Weapons: Internal Assignments",
+      "series_description": "This series documents the assignment of weapons of all types to personnel for law enforcement use. This series may include, but is not limited to: logs, registers, and rosters.",
+      "series_retention_period": "5 Years after equipment, facility, or property sold or no longer in use",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Weapons: Internal Assignments (Series 100762): This series documents the ASSIGNMENT OF WEAPONS to individual law enforcement officers for official use. Retention: 5 years after weapon sold or retired. Records include: weapon assignment log, officer receiving weapon (name, badge), weapon description (type, serial number, make), assignment date, return/transfer record. Custody tracking — distinct from Weapons Inventory (100635) which is asset control, and Firearms Qualifications (100761) which is proficiency testing.",
+      "scope_notes": "Applies to records of specific weapons assigned to individual law enforcement officers — custody tracking. Distinct from Weapons Inventory (100635) which is agency-wide asset control, and Firearms Qualifications (100761) which is proficiency testing.",
+      "key_criteria": [
+        "weapon assignment",
+        "duty weapon assigned",
+        "weapon issued to officer",
+        "officer weapon assignment",
+        "weapon custody log",
+        "assigned firearm",
+        "weapon internal assignment",
+        "service weapon issued"
+      ],
+      "exclusions": [
+        "100635",
+        "100761"
+      ]
+    },
+    {
+      "schedule_number": "GS-17",
+      "schedule_title": "Law Enforcement, Fire and Emergency Services",
+      "series_number": "100635",
+      "series_title": "Weapons: Inventory",
+      "series_description": "This series documents the inventory and asset control of weapons and ammunition. This series includes, but is not limited to: logs and lists.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Weapons: Inventory (Series 100635): This series documents the INVENTORY AND ASSET CONTROL of all law enforcement weapons and ammunition — the agency's complete weapons asset list. Retention: until no longer administratively useful. Records include: weapons inventory list, ammunition inventory, asset control logs, weapon count by type and serial number. Agency-wide asset control record — distinct from Weapons: Internal Assignments (100762) which tracks individual officer custody.",
+      "scope_notes": "Applies to the agency-wide weapons and ammunition inventory — the complete asset list of all weapons and ammo in agency custody. Distinct from Internal Assignments (100762) which tracks individual officer custody, and Firearms Qualifications (100761) which is proficiency testing.",
+      "key_criteria": [
+        "weapons inventory",
+        "armory inventory",
+        "ammunition inventory",
+        "weapons asset list",
+        "weapons asset control",
+        "armory stock",
+        "weapons count"
+      ],
+      "exclusions": [
+        "100762",
+        "100761"
+      ]
+    }
+  ]
+}

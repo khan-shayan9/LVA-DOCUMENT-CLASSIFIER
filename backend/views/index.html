@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Main upload & document classification page -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Pre-render theme initialization script -->
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('doc-class-theme') || 'dark';
+        if (t !== 'light' && t !== 'dark') t = 'dark';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+
+  <!-- SEO -->
+  <title>AI Document Classification System — Library of Virginia (GS-17)</title>
+  <meta name="description" content="Upload a document for AI-powered RAG classification into Library of Virginia GS-17 record schedule series." />
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+
+<body>
+
+  <!-- Theme toggle -->
+  <button class="theme-toggle" id="theme-toggle" type="button"
+    aria-label="Switch to light theme" title="Switch to light theme">
+    <span class="theme-toggle__icon theme-toggle__icon--sun" aria-hidden="true">☀️</span>
+    <span class="theme-toggle__icon theme-toggle__icon--moon" aria-hidden="true">🌙</span>
+  </button>
+
+  <div class="page-wrapper">
+
+    <!-- Header -->
+    <header class="app-header">
+      <div class="app-icon" aria-hidden="true">🗂️</div>
+      <h1 class="app-title">Document Classification</h1>
+      <p class="app-subtitle">Upload a PDF, DOCX or XLSX file for AI-powered GS-17 classification</p>
+    </header>
+
+    <!-- Upload Card -->
+    <main>
+      <div class="upload-card">
+
+        <!-- Section label -->
+        <p class="section-label">Select Document</p>
+
+        <!-- Drop Zone -->
+        <div class="drop-zone" id="drop-zone" role="button" aria-label="File upload area">
+          <input type="file" id="file-input"
+            accept=".pdf,.docx,.xlsx,.xls,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel"
+            aria-label="Choose a PDF, DOCX, or Excel file" />
+          <span class="drop-zone-icon" aria-hidden="true">📂</span>
+          <p class="drop-zone-label">
+            <strong>Click to browse</strong> or drag and drop your file here
+          </p>
+          <p class="drop-zone-hint">PDF, DOCX or XLSX files · Maximum 2 MB</p>
+        </div>
+
+        <!-- File Preview -->
+        <div class="file-preview" id="file-preview" aria-live="polite">
+          <span class="file-preview-icon" id="preview-icon" aria-hidden="true">📄</span>
+          <div class="file-preview-info">
+            <div class="file-preview-name" id="preview-name"></div>
+            <div class="file-preview-size" id="preview-size"></div>
+          </div>
+          <button class="file-preview-clear" id="clear-btn" aria-label="Remove selected file"
+            title="Remove file">✕</button>
+        </div>
+
+        <!-- Upload Button -->
+        <button class="btn-upload" id="upload-btn" type="button">
+          <span class="spinner" aria-hidden="true"></span>
+          <span class="btn-label" id="btn-label">Classify Document</span>
+        </button>
+
+        <!-- Feedback Message -->
+        <div class="message" id="message-box" role="alert" aria-live="assertive">
+          <span class="message-icon" id="message-icon" aria-hidden="true"></span>
+          <div class="message-text" id="message-text"></div>
+        </div>
+
+        <!-- Classification Results Container -->
+        <div id="classification-results-container" aria-live="polite"></div>
+
+        <!-- Extracted Text Preview Container -->
+        <div id="extracted-text-preview-container" aria-live="polite"></div>
+
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="upload-footer">
+      <p>AI-Based Document Classification System · Library of Virginia GS-17</p>
+    </footer>
+
+  </div>
+
+  <script>
+    window.APP_CONFIG = __APP_CONFIG__;
+  </script>
+
+  <!-- Theme toggle and client upload script -->
+  <script src="/js/theme.js"></script>
+  <script src="/js/upload.js"></script>
+
+</body>
+
+</html>

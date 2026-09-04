@@ -1,0 +1,514 @@
+{
+  "schedule_number": "GS-02",
+  "schedule_title": "Fiscal Records",
+  "records": [
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010143",
+      "series_title": "Accounts Payable",
+      "series_description": "This series documents moneys to be paid by the locality to its creditors. This series may include, but is not limited to: invoices, receipts, bills, canceled checks, returned checks, check registers, and checking statements.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Accounts Payable (Series 010143): Fiscal record documenting moneys owed by the locality to creditors. Retention: 3 years after end of state fiscal year. Records include: invoices, receipts, bills, canceled checks, returned checks, check registers, checking statements. Covers outgoing payments and obligations to vendors.",
+      "scope_notes": "Applies to records of money owed by the locality to external creditors. Covers invoices received, bills payable, payment records, and check documentation. Distinct from Accounts Receivable (010144) which covers money owed to the locality.",
+      "key_criteria": [
+        "accounts payable",
+        "invoice",
+        "bill payable",
+        "creditor payment",
+        "canceled check",
+        "returned check",
+        "check register",
+        "vendor payment",
+        "money owed",
+        "payment due",
+        "outgoing payment"
+      ],
+      "exclusions": [
+        "010144",
+        "200106"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010144",
+      "series_title": "Accounts Receivable",
+      "series_description": "This series documents moneys owed to the locality by its debtors. This series may include, but is not limited to: deposit receipts, invoices, bills, purchase orders, vouchers, permits, and receipt records.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Accounts Receivable (Series 010144): Fiscal record documenting moneys owed to the locality by debtors. Retention: 3 years after end of state fiscal year. Records include: deposit receipts, invoices, bills, purchase orders, vouchers, permits, receipt records. Covers incoming payments and receivables.",
+      "scope_notes": "Applies to records of money owed to the locality by external parties. Covers invoices issued, receipts of payment, and receivable documentation. Distinct from Accounts Payable (010143) which covers money the locality owes.",
+      "key_criteria": [
+        "accounts receivable",
+        "deposit receipt",
+        "debtor payment",
+        "money owed to locality",
+        "incoming payment",
+        "receivable",
+        "voucher",
+        "receipt record",
+        "purchase order received",
+        "permit fee"
+      ],
+      "exclusions": [
+        "010143",
+        "200106"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010146",
+      "series_title": "Audit Records: External",
+      "series_description": "This series documents the audit of the finances of the locality by an outside auditing firm. This series may include, but is not limited to: locality's working papers and prepared audit report. COV 15.2-2511.",
+      "series_retention_period": "Permanent, In Agency",
+      "series_disposition_method": "Permanent Retention",
+      "text_to_embed": "Audit Records: External (Series 010146): Permanent fiscal record documenting external audit of locality finances by an outside auditing firm. Retention: Permanent, in agency. Records include: working papers, prepared audit report. Authority: COV 15.2-2511. Covers third-party independent financial audits.",
+      "scope_notes": "Applies to audits of locality finances conducted by external, independent auditing firms. Retention is permanent. Distinct from Internal Audit Records (010145) which are conducted internally by the locality's own staff.",
+      "key_criteria": [
+        "external audit",
+        "independent audit",
+        "outside auditing firm",
+        "audit report",
+        "financial audit",
+        "locality finances audited",
+        "COV 15.2-2511",
+        "auditor working papers",
+        "third-party audit"
+      ],
+      "exclusions": [
+        "010145"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010145",
+      "series_title": "Audit Records: Internal",
+      "series_description": "This series documents the audits conducted by the locality on its various departments and agencies. This series may include, but is not limited to: audit report and work papers.",
+      "series_retention_period": "8 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Audit Records: Internal (Series 010145): Fiscal record documenting internal audits conducted by the locality on its own departments and agencies. Retention: 8 years after end of state fiscal year. Records include: audit report, work papers. Covers self-conducted departmental financial reviews.",
+      "scope_notes": "Applies to audits conducted internally by the locality's own staff on its departments and agencies. Distinct from External Audit Records (010146) which involve an independent outside auditing firm.",
+      "key_criteria": [
+        "internal audit",
+        "departmental audit",
+        "agency audit",
+        "internal review",
+        "audit work papers",
+        "self-audit",
+        "locality internal audit"
+      ],
+      "exclusions": [
+        "010146"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010150",
+      "series_title": "Budget Records: Adopted Budget Files",
+      "series_description": "This series documents the adopted locality budget, outlining approved expenditures for the year.",
+      "series_retention_period": "Permanent, In Agency",
+      "series_disposition_method": "Permanent Retention",
+      "text_to_embed": "Budget Records: Adopted Budget Files (Series 010150): Permanent fiscal record of the officially adopted locality budget. Retention: Permanent, in agency. Documents approved expenditures, appropriations, and budget allocations for the fiscal year. The official approved annual budget.",
+      "scope_notes": "Applies to the formally adopted/approved annual budget of the locality. Retention is permanent. Distinct from Budget Working Files (010151) which are drafts and working documents used in the budget preparation process.",
+      "key_criteria": [
+        "adopted budget",
+        "approved budget",
+        "annual budget",
+        "budget appropriation",
+        "budget allocation",
+        "approved expenditures",
+        "official budget",
+        "locality budget"
+      ],
+      "exclusions": [
+        "010151"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010151",
+      "series_title": "Budget Records: Working Files",
+      "series_description": "This series documents the budgeting process of the locality. This series may include, but is not limited to: working files.",
+      "series_retention_period": "5 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Budget Records: Working Files (Series 010151): Fiscal record documenting the budget preparation process of the locality. Retention: 5 years after end of state fiscal year. Records include: draft budgets, working files, budget worksheets, proposals. Covers the process leading to adoption, not the final adopted budget.",
+      "scope_notes": "Applies to working and draft documents created during the budget preparation process. Distinct from Adopted Budget Files (010150) which is the final officially approved budget.",
+      "key_criteria": [
+        "budget working file",
+        "budget draft",
+        "budget proposal",
+        "budget preparation",
+        "budget worksheet",
+        "budget process document",
+        "preliminary budget"
+      ],
+      "exclusions": [
+        "010150"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "200104",
+      "series_title": "Cash and Bank Reports",
+      "series_description": "This series documents financial transactions within the locality. This series may include, but is not limited to: cash reports, transmittal and settlement records, warrant records, bank statements, and reconciliation documentation.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Cash and Bank Reports (Series 200104): Confidential fiscal record documenting cash transactions and banking activity of the locality. Retention: 3 years after end of state fiscal year. Records include: cash reports, transmittal records, settlement records, warrant records, bank statements, bank reconciliation. Covers day-to-day cash flow and banking.",
+      "scope_notes": "Applies to records of cash handling and bank transactions. Covers bank statements, cash reports, reconciliation documents. Confidential destruction required. Distinct from General Ledger (010169) which is a higher-level accounting summary.",
+      "key_criteria": [
+        "cash report",
+        "bank statement",
+        "bank reconciliation",
+        "cash transaction",
+        "transmittal record",
+        "settlement record",
+        "warrant record",
+        "cash flow",
+        "daily cash",
+        "bank deposit"
+      ],
+      "exclusions": [
+        "010169",
+        "010143"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010159",
+      "series_title": "Contracts",
+      "series_description": "This series documents contracts and agreements entered into by the locality. The series may include, but is not limited to: contract and supporting documentation.",
+      "series_retention_period": "5 Years after expiration",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Contracts (Series 010159): Fiscal record documenting contracts and agreements entered into by the locality with vendors, suppliers, or service providers. Retention: 5 years after expiration. Records include: signed contracts, agreements, supporting documentation. Covers all procurement and service contracts.",
+      "scope_notes": "Applies to formal contracts and agreements entered into by the locality. Retention is 5 years after contract expiration. Confidential destruction required. Covers procurement, service, and vendor agreements.",
+      "key_criteria": [
+        "contract",
+        "agreement",
+        "signed contract",
+        "procurement contract",
+        "service agreement",
+        "contract documentation",
+        "contract expiration",
+        "vendor agreement",
+        "locality contract"
+      ],
+      "exclusions": [
+        "200106",
+        "010164"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010162",
+      "series_title": "Financial Accounting Reports",
+      "series_description": "This series documents the income and expenditures of the locality by its offices and agencies.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Financial Accounting Reports (Series 010162): Fiscal record documenting income and expenditures of the locality across its offices and agencies. Retention: 3 years after end of state fiscal year. Covers periodic financial reports summarizing revenues and spending by department.",
+      "scope_notes": "Applies to summary financial reports covering income and expenditure by agency or department. Distinct from General Ledger (010169) which is the underlying detailed accounting record.",
+      "key_criteria": [
+        "financial accounting report",
+        "income report",
+        "expenditure report",
+        "department financial report",
+        "agency financial report",
+        "revenue and spending report",
+        "financial summary"
+      ],
+      "exclusions": [
+        "010169",
+        "010150"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010163",
+      "series_title": "Fixed Assets Files",
+      "series_description": "This series documents the control of fixed assets, such as land, buildings, and equipment, owned by the agency. This series may include, but is not limited to: logs, inventories, and reconciliation documents.",
+      "series_retention_period": "0 Years after equipment, facility, or property sold or no longer in use",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Fixed Assets Files (Series 010163, GS-02 Fiscal Records): Administrative fiscal record documenting the control and inventory of fixed assets owned by any locality agency — including police departments, fire departments, sheriff offices, and all other municipal departments. This is NOT a law enforcement investigative record. Retention: retain until asset is sold or no longer in use. Records include: fixed asset log, property inventory, equipment inventory, land parcel records, building records, capital asset reconciliation, asset management system entries, maps, deeds, maintenance schedules, newly acquired property documentation, asset disposal records. Covers tracking of agency-owned buildings, land, vehicles, and major equipment. The content describes asset management, property accounting, and fiscal control — not criminal investigations, arrests, incidents, or law enforcement operations.",
+      "scope_notes": "Applies to records tracking fixed assets owned by the locality including land, buildings, and major equipment. Retained until the asset is disposed of. Covers asset inventory, depreciation tracking, and reconciliation.",
+      "key_criteria": [
+        "fixed assets",
+        "property inventory",
+        "equipment inventory",
+        "asset log",
+        "fixed asset reconciliation",
+        "land inventory",
+        "building inventory",
+        "capital asset",
+        "asset disposal",
+        "asset tracking"
+      ],
+      "exclusions": [
+        "010163"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010169",
+      "series_title": "General Ledger",
+      "series_description": "This series documents the assets, liabilities, fund balances, revenues, and expenses of the locality. This series may include, but is not limited to: ledger, ledger cards, journals, and reports.",
+      "series_retention_period": "10 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "General Ledger (Series 010169): Fiscal record documenting the complete accounting of assets, liabilities, fund balances, revenues, and expenses of the locality. Retention: 10 years after end of state fiscal year. Records include: general ledger, ledger cards, journals, financial reports. The master accounting record for the locality.",
+      "scope_notes": "Applies to the master accounting ledger recording all financial transactions — assets, liabilities, revenues, and expenses. The foundational accounting record, distinct from periodic Financial Accounting Reports (010162).",
+      "key_criteria": [
+        "general ledger",
+        "ledger",
+        "fund balance",
+        "asset and liability",
+        "revenue and expense",
+        "journal entry",
+        "ledger card",
+        "master accounting record",
+        "financial ledger"
+      ],
+      "exclusions": [
+        "010162",
+        "200104"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010164",
+      "series_title": "Grant Projects: Financials",
+      "series_description": "This series documents the annual financial management of state, federal, and/or private grant projects participated in or awarded/administered by local agencies that do not contain contractual terms for records retention. This series may include, but is not limited to: accounts payables and receivables, draw-down requests, and fiscal reports.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Grant Projects: Financials (Series 010164): Fiscal record documenting financial management of grant projects administered by the locality. Retention: 3 years after end of state fiscal year. Records include: grant accounts payable and receivable, draw-down requests, fiscal reports. Covers state, federal, and private grant funding management.",
+      "scope_notes": "Applies to financial records related to the administration of grant projects without specific contractual retention terms. Covers draw-down requests and grant fiscal reports. Distinct from general Contracts (010159).",
+      "key_criteria": [
+        "grant financials",
+        "grant project",
+        "federal grant",
+        "state grant",
+        "grant draw-down",
+        "grant fiscal report",
+        "grant accounts",
+        "grant administration",
+        "grant funding"
+      ],
+      "exclusions": [
+        "010159",
+        "010162"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010165",
+      "series_title": "Insurance Records and Reports",
+      "series_description": "This series documents insurance coverage carried by the locality, such as commercial policies, third-party coverage, and self-insurance programs. This series may include, but is not limited to: insurance policies, claims, invoices, and investment files.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Insurance Records and Reports (Series 010165): Fiscal record documenting insurance coverage of the locality. Retention: 3 years after end of state fiscal year. Records include: insurance policies, claims, invoices, investment files. Covers commercial, third-party, and self-insurance programs.",
+      "scope_notes": "Applies to insurance coverage documentation for the locality including policies, premium payments, and claims. Confidential destruction required. Distinct from Workers' Compensation Records (010218) which are employee injury claims.",
+      "key_criteria": [
+        "insurance policy",
+        "insurance claim",
+        "commercial insurance",
+        "self-insurance",
+        "third-party coverage",
+        "insurance premium",
+        "liability insurance",
+        "insurance invoice"
+      ],
+      "exclusions": [
+        "010218"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "200105",
+      "series_title": "Payroll Records",
+      "series_description": "This series documents the payroll activities of the locality. This series may include, but is not limited to: deduction authorizations and registers, leave records, ledgers and reports, compensation files, retirement contributions, time and attendance records, time sheets, Virginia Employment Commission (VEC) reports, wage and income tax reports, W-2 Wage and Tax Statements, and Form 1099.",
+      "series_retention_period": "5 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Payroll Records (Series 200105): Confidential fiscal record documenting payroll activities of the locality. Retention: 5 years after end of state fiscal year. Records include: deduction authorizations, leave records, payroll ledgers, compensation files, retirement contributions, time sheets, timecard, attendance records, VEC reports, W-2, Form 1099, wage and tax reports. Covers all employee compensation processing.",
+      "scope_notes": "Applies to records of employee payroll processing. Confidential destruction required. Covers wages, deductions, tax filings, and attendance. Distinct from Purchasing Records (200106) which covers procurement, and Retirement Files (010194) which covers VRS participation.",
+      "key_criteria": [
+        "payroll",
+        "W-2",
+        "Form 1099",
+        "time sheet",
+        "timecard",
+        "attendance record",
+        "wage and tax",
+        "payroll register",
+        "payroll deduction",
+        "compensation file",
+        "VEC report",
+        "leave record",
+        "direct deposit"
+      ],
+      "exclusions": [
+        "200106",
+        "010194",
+        "200107"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "200106",
+      "series_title": "Purchasing Records",
+      "series_description": "This series documents the purchasing of equipment, goods, services, and supplies by the locality. This series may include, but is not limited to: bids, bid proposals, contracts, agreements, purchase orders, and requisitions.",
+      "series_retention_period": "5 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Purchasing Records (Series 200106): Fiscal record documenting procurement of equipment, goods, services, and supplies by the locality. Retention: 5 years after end of state fiscal year. Records include: bids, bid proposals, contracts, agreements, purchase orders, requisitions. Covers all procurement and acquisition activity.",
+      "scope_notes": "Applies to records of procurement and purchasing activity including solicitation, bidding, and contracting for goods and services. Distinct from Accounts Payable (010143) which covers payment of the bills resulting from purchases.",
+      "key_criteria": [
+        "purchase order",
+        "bid proposal",
+        "procurement",
+        "requisition",
+        "purchasing records",
+        "vendor bid",
+        "goods and services procurement",
+        "supply purchase",
+        "equipment purchase"
+      ],
+      "exclusions": [
+        "010143",
+        "010159"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010190",
+      "series_title": "Reimbursement Records",
+      "series_description": "This series documents the reimbursement of money to or from the locality. This series may include, but is not limited to: travel expense reimbursement and overpayment documentation.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Non-confidential Destruction",
+      "text_to_embed": "Reimbursement Records (Series 010190): Fiscal record documenting money reimbursed to or from the locality. Retention: 3 years after end of state fiscal year. Records include: travel expense reimbursement, overpayment documentation. Covers expense claims and repayments.",
+      "scope_notes": "Applies to reimbursement transactions — money paid back to employees (e.g. travel expenses) or received back from overpayments. Distinct from Payroll Records (200105) which documents base compensation.",
+      "key_criteria": [
+        "reimbursement",
+        "travel expense",
+        "travel reimbursement",
+        "overpayment",
+        "expense claim",
+        "expense repayment",
+        "mileage reimbursement"
+      ],
+      "exclusions": [
+        "200105",
+        "010143"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "200107",
+      "series_title": "Retirement Files: Locally Managed Retirement System",
+      "series_description": "This series documents the locally managed retirement system. This series may include, but is not limited to: employee participating and financial documentation.",
+      "series_retention_period": "3 Years after last action",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Retirement Files: Locally Managed Retirement System (Series 200107): Confidential fiscal record documenting the locality's own managed retirement plan. Retention: 3 years after last action. Records include: employee enrollment, contribution documentation, financial records. Covers locally administered pension systems, not Virginia Retirement System.",
+      "scope_notes": "Applies to the locality's own internally managed retirement system. Confidential destruction required. Distinct from Virginia Retirement System (VRS) files (010194) which cover the state-administered plan.",
+      "key_criteria": [
+        "locally managed retirement",
+        "local pension",
+        "retirement plan",
+        "retirement fund",
+        "employee retirement",
+        "pension contribution",
+        "retirement enrollment"
+      ],
+      "exclusions": [
+        "010194"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010194",
+      "series_title": "Retirement Files: Virginia Retirement System (VRS)",
+      "series_description": "This series documents the participation of the locality in the Virginia Retirement System.",
+      "series_retention_period": "3 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Retirement Files: Virginia Retirement System (VRS) (Series 010194): Confidential fiscal record documenting participation in the Virginia Retirement System. Retention: 3 years after end of state fiscal year. Covers VRS enrollment, contributions, and related compliance documentation for the state-administered retirement plan.",
+      "scope_notes": "Applies to participation records for the state-administered Virginia Retirement System (VRS). Confidential destruction required. Distinct from Locally Managed Retirement System (200107).",
+      "key_criteria": [
+        "Virginia Retirement System",
+        "VRS",
+        "VRS contribution",
+        "VRS enrollment",
+        "state retirement",
+        "VRS compliance"
+      ],
+      "exclusions": [
+        "200107"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "200391",
+      "series_title": "Vendor / Supplier Records",
+      "series_description": "This series documents the information of vendors and suppliers that provide goods and services. This series may include, but is not limited to: correspondence, W-9 and 1099 forms, Internal Revenue Service Taxpayer Identification Number (IRS TIN) match form, alternate payment address notice, and Automatic Clearing House (ACH) payment form.",
+      "series_retention_period": "0 Years after no longer administratively useful",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Vendor / Supplier Records (Series 200391): Confidential fiscal record documenting vendor and supplier information. Retain until no longer needed. Records include: W-9, Form 1099, IRS TIN match, alternate payment address, ACH payment form, vendor correspondence. Covers vendor master data and tax documentation.",
+      "scope_notes": "Applies to records of vendor and supplier information including tax forms and payment setup documentation. Confidential destruction required. Distinct from Purchasing Records (200106) which cover the transactions themselves.",
+      "key_criteria": [
+        "vendor record",
+        "supplier record",
+        "W-9",
+        "1099 form",
+        "IRS TIN",
+        "taxpayer identification",
+        "ACH payment",
+        "vendor master",
+        "supplier information",
+        "vendor correspondence"
+      ],
+      "exclusions": [
+        "200106",
+        "010143"
+      ]
+    },
+    {
+      "schedule_number": "GS-02",
+      "schedule_title": "Fiscal Records",
+      "series_number": "010218",
+      "series_title": "Workers' Compensation Records",
+      "series_description": "This series documents claims filed based on work-related injury or illness. This series may include, but is not limited to: claims, application for benefits, wage documents used to determine compensation, and payment documentation.",
+      "series_retention_period": "5 Years after end of state fiscal year",
+      "series_disposition_method": "Confidential Destruction",
+      "text_to_embed": "Workers' Compensation Records (Series 010218): Confidential fiscal record documenting workers' compensation claims for work-related injury or illness. Retention: 5 years after end of state fiscal year. Records include: injury claims, benefit applications, wage documents, compensation payments. Covers all employee work injury and illness compensation.",
+      "scope_notes": "Applies to records of workers' compensation claims arising from work-related injury or illness. Confidential destruction required. Distinct from Insurance Records (010165) which cover general property and liability insurance, and Payroll Records (200105) which cover regular compensation.",
+      "key_criteria": [
+        "workers' compensation",
+        "work injury",
+        "workplace injury",
+        "work-related illness",
+        "injury claim",
+        "workers comp",
+        "compensation claim",
+        "benefit application",
+        "injury report"
+      ],
+      "exclusions": [
+        "010165",
+        "200105"
+      ]
+    }
+  ]
+}
