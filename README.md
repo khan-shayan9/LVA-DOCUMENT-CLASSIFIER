@@ -4,6 +4,12 @@ AI-powered RAG system that classifies government records into their official **L
 
 Upload a PDF, Word, or Excel document and get back the matching record series, its statutory retention period, mandated disposition method, and the AI's reasoning for the match.
 
+## Screenshots
+
+| Upload | Classification result |
+|---|---|
+| ![Upload screen](screenshot-upload.png) | ![Classification result](screenshot-result.png) |
+
 ---
 
 ## Why
@@ -95,6 +101,10 @@ This was hardened for public deployment, not just local dev:
 - [`1.PROJECT_SPECIFICATION.md`](1.PROJECT_SPECIFICATION.md) — functional & non-functional requirements
 - [`2.ARCHITECTURE.md`](2.ARCHITECTURE.md) — layered architecture spec
 - [`workflow.md`](workflow.md) — full pipeline, RAG/confidence design, and security/performance deep dive
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).
 
 ## Author
 
